@@ -1,0 +1,2394 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: pages/functions.html:9
+msgid "Limitless possibilities."
+msgstr ""
+
+#: pages/functions.html:11
+msgid "Get the most out of your TREZOR."
+msgstr ""
+
+#: pages/functions.html:22
+msgid "Wallet for Bitcoin and others"
+msgstr ""
+
+#: pages/functions.html:25
+msgid ""
+"\n"
+"                        <p>The most trusted and secure way to store your "
+"bitcoins. Protect a variety of alternative\n"
+"                            digital currencies. Litecoin,\n"
+"                            DASH and Zcash with a single device.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/functions.html:31 pages/index.html:189
+msgid "Go to Wallet"
+msgstr ""
+
+#: pages/functions.html:36
+msgid "Ethereum integration"
+msgstr ""
+
+#: pages/functions.html:38
+msgid ""
+"\n"
+"                        <p>\n"
+"                            Saved under the same seed, secured by the same "
+"technology. Use Ethereum conveniently in\n"
+"                            cooperation with our partners at MyEtherWallet\n"
+"                        </p>\n"
+"                        "
+msgstr ""
+
+#: pages/functions.html:45
+msgid "Go to MEW"
+msgstr ""
+
+#: pages/functions.html:51 pages/functions.html:59 pages/index.html:110
+#: pages/passwords.html:15
+msgid "Password Manager"
+msgstr ""
+
+#: pages/functions.html:53
+msgid ""
+"\n"
+"                        <p>Try out the next-generation password management "
+"app. Encrypt passwords separately and sync\n"
+"                            them to your private cloud, hassle-free, with "
+"TREZOR.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/functions.html:64
+msgid "Secure Admin SSH Access"
+msgstr ""
+
+#: pages/functions.html:67
+msgid ""
+"\n"
+"                        <p>Protect access to your servers, data or websites "
+"administration. SSH login with\n"
+"                            single or multiple sessions.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/functions.html:73
+msgid "SSH Agent on GitHub"
+msgstr ""
+
+#: pages/functions.html:78 pages/index.html:95
+msgid "2-Factor Authentication"
+msgstr ""
+
+#: pages/functions.html:80
+msgid ""
+"\n"
+"                        <p>Safeguard your online accounts and identities. "
+"Enable the industry standard FIDO/U2F and use\n"
+"                            TREZOR as your security token.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/functions.html:86
+msgid "More about U2F"
+msgstr ""
+
+#: pages/functions.html:92
+msgid "Sign &amp; Encrypt with GPG"
+msgstr ""
+
+#: pages/functions.html:95
+msgid ""
+"\n"
+"                        <p>TREZOR encrypts every document or\n"
+"                            email you create with GPG.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/functions.html:101
+msgid "GPG via SSH Agent"
+msgstr ""
+
+#: pages/functions.html:108
+msgid "Password-less Login"
+msgstr ""
+
+#: pages/functions.html:110
+msgid ""
+"\n"
+"                        <p>Securely sign up and login with a click of a "
+"button, using TREZOR Connect.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/functions.html:115
+msgid "TREZOR Connect on GitHub"
+msgstr ""
+
+#: pages/functions.html:122
+msgid "Sign &amp; Verify Messages"
+msgstr ""
+
+#: pages/functions.html:125
+msgid ""
+"\n"
+"                        <p>Easily prove your ownership of messages and "
+"documents, or verify others.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/functions.html:130
+msgid "More about Messages"
+msgstr ""
+
+#: pages/functions.html:136
+msgid "Explore Integrations"
+msgstr ""
+
+#: pages/functions.html:139
+msgid ""
+"\n"
+"                        <p>Connect your TREZOR to third party wallets and "
+"services.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/functions.html:144
+msgid "TREZOR Apps"
+msgstr ""
+
+#: pages/functions.html:154 pages/index.html:567
+msgid "Developers, come along!"
+msgstr ""
+
+#: pages/functions.html:163 pages/index.html:576
+msgid "GitHub Repos"
+msgstr ""
+
+#: pages/functions.html:165 pages/index.html:578
+msgid "Dev Community Chat"
+msgstr ""
+
+#: pages/functions.html:167 pages/index.html:580
+msgid "Learn from TREZOR Developer's Guide"
+msgstr ""
+
+#: pages/functions.html:171 pages/index.html:584
+msgid "Learn. Collaborate. Innovate."
+msgstr ""
+
+#: pages/functions.html:172
+msgid ""
+"\n"
+"                <p>Join us and work on top-notch global projects related to "
+"Bitcoin and security. Become a part of\n"
+"                    our team\n"
+"                    resposible for several influential projects that marked "
+"milestones in the Bitcoin world. We love\n"
+"                    to work\n"
+"                    with talented and enthusiastic developers, marketers or "
+"designers.</p>\n"
+"                "
+msgstr ""
+
+#: pages/index.html:9
+msgid "Bitcoin wallet."
+msgstr ""
+
+#: pages/index.html:13
+msgid "bitcoins."
+msgstr ""
+
+#: pages/index.html:14
+msgid "passwords."
+msgstr ""
+
+#: pages/index.html:15
+msgid "accounts."
+msgstr ""
+
+#: pages/index.html:16
+msgid "emails."
+msgstr ""
+
+#: pages/index.html:24 pages/index.html:59
+msgid "Buy for €89"
+msgstr ""
+
+#: pages/index.html:26
+msgid "Supported platforms:"
+msgstr ""
+
+#: pages/index.html:38
+msgid "New TREZOR owner?"
+msgstr ""
+
+#: pages/index.html:39
+msgid "Start now"
+msgstr ""
+
+#: pages/index.html:53
+msgid "Usage"
+msgstr ""
+
+#: pages/index.html:54
+msgid "Features"
+msgstr ""
+
+#: pages/index.html:55
+msgid "Specs"
+msgstr ""
+
+#: pages/index.html:56
+msgid "Developers"
+msgstr ""
+
+#: pages/index.html:57
+msgid "Team"
+msgstr ""
+
+#: pages/index.html:74
+msgid "Cryptocurrency wallet"
+msgstr ""
+
+#: pages/index.html:83
+msgid "ERC-20 tokens"
+msgstr ""
+
+#: pages/index.html:116
+msgid "Explore more functions"
+msgstr ""
+
+#: pages/index.html:125
+msgid "Easy &amp; Secure."
+msgstr ""
+
+#: pages/index.html:126
+msgid "Bitcoin wallet of my choice."
+msgstr ""
+
+#: pages/index.html:133
+msgid "Quick setup."
+msgstr ""
+
+#: pages/index.html:134
+msgid ""
+"\n"
+"                            <p>Get your TREZOR ready within minutes in a "
+"completely private, registration-free\n"
+"                                process.</p>\n"
+"                            "
+msgstr ""
+
+#: pages/index.html:139
+msgid "More about setup"
+msgstr ""
+
+#: pages/index.html:146
+msgid "Use with ease."
+msgstr ""
+
+#: pages/index.html:147
+msgid ""
+"\n"
+"                            <p>Using TREZOR is easy. Just follow the "
+"instructions on the display and click the button\n"
+"                                to confirm important actions.</p>\n"
+"                            "
+msgstr ""
+
+#: pages/index.html:157 pages/passwords.html:84
+msgid "Lost? Restore."
+msgstr ""
+
+#: pages/index.html:158
+msgid ""
+"\n"
+"                            <p>No worries, use your secret words to quickly "
+"regain access to all your\n"
+"                                keys, money, history, accounts and emails.</"
+"p>\n"
+"                            "
+msgstr ""
+
+#: pages/index.html:163
+msgid "Help with recovery"
+msgstr ""
+
+#: pages/index.html:182
+msgid "TREZOR as a Bitcoin wallet."
+msgstr ""
+
+#: pages/index.html:183
+msgid ""
+"\n"
+"                        <p>The most trusted and secure way to store your "
+"bitcoins. Isolate your private keys into the\n"
+"                            safety of TREZOR and enjoy Bitcoin without risk. "
+"The best protection at no cost to your\n"
+"                            convenience.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/index.html:199
+msgid "Trusted by Bitcoin businesses."
+msgstr ""
+
+#: pages/index.html:280
+msgid "Litecoin"
+msgstr ""
+
+#: pages/index.html:287
+msgid "Ethereum"
+msgstr ""
+
+#: pages/index.html:295
+msgid "Dash"
+msgstr ""
+
+#: pages/index.html:302
+msgid "Ethereum Classic"
+msgstr ""
+
+#: pages/index.html:309
+msgid "ZCash"
+msgstr ""
+
+#: pages/index.html:315
+msgid ""
+"\n"
+"                        <h3 class=\"card-title\">Supporting more coins.<br/"
+">Everyday.</h3>\n"
+"                        "
+msgstr ""
+
+#: pages/index.html:335
+msgid "Leading security by design."
+msgstr ""
+
+#: pages/index.html:336
+msgid ""
+"\n"
+"                        <p>Advanced cryptography, reliable hardware, simple "
+"interface. All in perfect cooperation.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/index.html:350
+msgid "Small and Sturdy"
+msgstr ""
+
+#: pages/index.html:351
+msgid ""
+"Fits into your palm.<br/> Tamper-proof, water-resistant and extremely\n"
+"                            durable."
+msgstr ""
+
+#: pages/index.html:355
+msgid "Minimalistic"
+msgstr ""
+
+#: pages/index.html:356
+msgid "We removed everything that could be easily hacked."
+msgstr ""
+
+#: pages/index.html:359
+msgid "Trust your own eyes"
+msgstr ""
+
+#: pages/index.html:360
+msgid ""
+"Check important transaction details before you confirm. <br/>This display\n"
+"                            will\n"
+"                            always tell you the truth.\n"
+"                            "
+msgstr ""
+
+#: pages/index.html:366
+msgid "Trust your own hands"
+msgstr ""
+
+#: pages/index.html:367
+msgid ""
+"Everything important needs your direct physical approval.\n"
+"                            "
+msgstr ""
+
+#: pages/index.html:371
+msgid "Powerful Cryptography"
+msgstr ""
+
+#: pages/index.html:373
+msgid ""
+"TREZOR uses and creates the most advanced standards in cryptography and\n"
+"                            Bitcoin.\n"
+"                            "
+msgstr ""
+
+#: pages/index.html:390
+msgid "Endorsed by experts."
+msgstr ""
+
+#: pages/index.html:391
+msgid "Loved by thousands of users all over the World."
+msgstr ""
+
+#: pages/index.html:398
+msgid "CEO and Cofounder, 21"
+msgstr ""
+
+#: pages/index.html:400
+msgid ""
+"\n"
+"                            TREZOR is a pioneering hardware wallet, and a "
+"great way to store your digital currency\n"
+"                            locally.\n"
+"                            "
+msgstr ""
+
+#: pages/index.html:409
+msgid " CEO Third Key Solutions LLC"
+msgstr ""
+
+#: pages/index.html:411
+msgid ""
+"\n"
+"                            With TREZOR you don't need to be a security "
+"expert to have expert level security.\n"
+"                            "
+msgstr ""
+
+#: pages/index.html:419
+msgid "Economist"
+msgstr ""
+
+#: pages/index.html:421
+msgid ""
+"\n"
+"                            Hardware wallets have become the standard for "
+"secure, long-term bitcoin storage.\n"
+"                            Trezor is the gold standard for hardware "
+"wallets.\n"
+"                            "
+msgstr ""
+
+#: pages/index.html:435
+msgid "Just a few media mentions..."
+msgstr ""
+
+#: pages/index.html:495
+msgid "Technical specification."
+msgstr ""
+
+#: pages/index.html:496
+msgid ""
+"\n"
+"                    <p>We trimmed away everything that could be hacked and "
+"focused on powerful hardware features and\n"
+"                        software\n"
+"                        logic.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/index.html:585
+msgid ""
+"\n"
+"                    <p>Join us and work on top-notch global projects related "
+"to Bitcoin and security. Become a part of\n"
+"                        our team\n"
+"                        resposible for several influential projects that "
+"marked milestones in the Bitcoin world. We love\n"
+"                        to work\n"
+"                        with talented and enthusiastic developers, marketers "
+"or designers.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/index.html:601
+msgid ""
+"\n"
+"                        <p class=\"text-sm-center text-xs-center text-lg-"
+"right\">We are ambitious pioneers of technology,\n"
+"                            who strive to bring cryptography to the masses!\n"
+"                            Innovation is our engine; never-ending research "
+"and development keeps us at the top. Our aim\n"
+"                            is to understand and deliver secure yet easy-to-"
+"use solutions to real problems. We create\n"
+"                            and foster our open-source cryptography "
+"environment, the “TREZOR ecosystem,” for which we\n"
+"                            continuously develop flagship applications.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/index.html:613
+msgid "Convinced by our values."
+msgstr ""
+
+#: pages/index.html:622
+msgid "Meet our team."
+msgstr ""
+
+#: pages/index.html:623
+msgid ""
+"\n"
+"                        <p>Our team features some of the most recognized "
+"Bitcoin and security experts, a dedicated\n"
+"                            support\n"
+"                            team,\n"
+"                            as well as the most qualified Jack Russell in "
+"the world.</p>\n"
+"                        "
+msgstr ""
+
+#: pages/index.html:640
+msgid "Door Supervisor"
+msgstr ""
+
+#: pages/index.html:650
+msgid "Architect"
+msgstr ""
+
+#: pages/index.html:660
+msgid "Alchemist"
+msgstr ""
+
+#: pages/index.html:670
+msgid "Catalyst"
+msgstr ""
+
+#: pages/index.html:680
+msgid "Hacker"
+msgstr ""
+
+#: pages/index.html:690
+msgid "Operations"
+msgstr ""
+
+#: pages/index.html:700
+msgid "Office"
+msgstr ""
+
+#: pages/index.html:710 pages/index.html:731
+msgid "Developer"
+msgstr ""
+
+#: pages/index.html:721
+msgid "Cypherfunker"
+msgstr ""
+
+#: pages/index.html:742 pages/index.html:752 templates/footer.html:35
+#: templates/global_nav.html:35
+msgid "Support"
+msgstr ""
+
+#: pages/index.html:762
+msgid "Marketing"
+msgstr ""
+
+#: pages/passwords.html:16
+msgid "Say goodbye to your master password."
+msgstr ""
+
+#: pages/passwords.html:23
+msgid "Download for Chrome"
+msgstr ""
+
+#: pages/passwords.html:26
+msgid "Don't have a TREZOR?"
+msgstr ""
+
+#: pages/passwords.html:28
+msgid "Get one"
+msgstr ""
+
+#: pages/passwords.html:38
+msgid "Public Beta Announcement"
+msgstr ""
+
+#: pages/passwords.html:46
+msgid "Expert-level encryption in your hands."
+msgstr ""
+
+#: pages/passwords.html:48
+msgid ""
+"\n"
+"                    TREZOR Password Manager benefits from the proven "
+"security design of the most trusted bitcoin\n"
+"                    hardware wallet.\n"
+"                    "
+msgstr ""
+
+#: pages/passwords.html:59
+msgid "Secure access to passwords."
+msgstr ""
+
+#: pages/passwords.html:61
+msgid ""
+"\n"
+"                        Forget about master passwords. A simple click on "
+"your TREZOR button is a much more secure way to\n"
+"                        unlock your password manager.\n"
+"                        "
+msgstr ""
+
+#: pages/passwords.html:72
+msgid "Original TREZOR security."
+msgstr ""
+
+#: pages/passwords.html:74
+msgid ""
+"\n"
+"                        The open-source TREZOR code has been reviewed by "
+"renowned security experts across the globe.\n"
+"                        "
+msgstr ""
+
+#: pages/passwords.html:86
+msgid ""
+"\n"
+"                        Use your recovery seed of 24 words\n"
+"                        to regain access to you passwords, encrypted on "
+"Dropbox or Google\n"
+"                        Drive.\n"
+"                        "
+msgstr ""
+
+#: pages/passwords.html:102
+msgid "Send us feedback"
+msgstr ""
+
+#: pages/passwords.html:105
+msgid ""
+"\n"
+"                        The TREZOR Password Manager has been released for "
+"public beta testing and we welcome your\n"
+"                        feedback and bug reports.\n"
+"                        "
+msgstr ""
+
+#: pages/passwords.html:120
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: pages/passwords.html:131
+msgid ""
+"\n"
+"                            Traditional password managers share one weak "
+"point - the master password. Once someone knows\n"
+"                            your Master Password, they can get all of your "
+"passwords.\n"
+"                            TREZOR Password Manager doesn't require a master "
+"password. Instead, your TREZOR is the\n"
+"                            master key to your passwords.\n"
+"                            "
+msgstr ""
+
+#: pages/passwords.html:139
+msgid ""
+"\n"
+"                            Reports of master password breaches in <a\n"
+"                                href=\"http://thehackernews.com/2014/07/"
+"critical-vulnerability-and-privacy.html\">RoboForm</a>\n"
+"                            and <a\n"
+"                                href=\"https://www.wired.com/2015/06/hack-"
+"brief-password-manager-lastpass-got-breached-hard/\">LastPass</a>.\n"
+"                            "
+msgstr ""
+
+#: pages/passwords.html:150
+msgid "Why use TREZOR?"
+msgstr ""
+
+#: pages/passwords.html:154
+msgid ""
+"\n"
+"                            TREZOR is the most secure and most ubiquitous "
+"hardware wallet in the world. It uses\n"
+"                            cutting-edge cryptography to protect digital "
+"money and\n"
+"                            any valuable online assets such as passwords.\n"
+"                            "
+msgstr ""
+
+#: pages/passwords.html:161
+msgid ""
+"\n"
+"                            Since its launch in 2014, TREZOR has been "
+"embraced by users in almost 100 countries and\n"
+"                            continues to receive excellent reviews from "
+"renowned security experts.\n"
+"                            "
+msgstr ""
+
+#: pages/passwords.html:170
+msgid "How does TREZOR encrypt password entries?"
+msgstr ""
+
+#: pages/passwords.html:174
+msgid ""
+"\n"
+"                            TREZOR encrypts each password entry separately "
+"with a\n"
+"                            unique key.\n"
+"                            "
+msgstr ""
+
+#: pages/passwords.html:180
+msgid ""
+"\n"
+"                            The signature is derived from a unique private "
+"key on the TREZOR. All private keys are\n"
+"                            generated in its secure offline environment and "
+"never leave the device, making TREZOR\n"
+"                            impenetrable by hackers or malware.\n"
+"                            "
+msgstr ""
+
+#: pages/passwords.html:190
+msgid "How can I import / export my passwords?"
+msgstr ""
+
+#: pages/passwords.html:194
+msgid ""
+"\n"
+"                            While we are in the testing phase, you can't. We "
+"will add these features once all basic\n"
+"                            functionalities are well tested and stable "
+"across most platforms.\n"
+"                            "
+msgstr ""
+
+#: pages/start.html:8
+msgid "Thank you!"
+msgstr ""
+
+#: pages/start.html:10
+msgid ""
+"\n"
+"                    Finally in your hands! Now, it's time for 3 simple steps "
+"before you setup your device.\n"
+"                    "
+msgstr ""
+
+#: pages/start.html:22
+msgid "Learn how PIN works."
+msgstr ""
+
+#: pages/start.html:28
+msgid ""
+"\n"
+"                                <strong>PIN</strong> protects your TREZOR "
+"from unauthorized access. Use at\n"
+"                                least 4 different numbers. Try to avoid "
+"simple PINs as '1234'.\n"
+"                                "
+msgstr ""
+
+#: pages/start.html:35
+msgid ""
+"\n"
+"                                During the TREZOR setup, you will enter your "
+"new\n"
+"                                PIN twice. Notice that the numbers shown on "
+"TREZOR change between the entries.\n"
+"                                "
+msgstr ""
+
+#: pages/start.html:43
+msgid "Learn more about PIN"
+msgstr ""
+
+#: pages/start.html:65
+msgid "Understand the recovery seed."
+msgstr ""
+
+#: pages/start.html:71
+msgid ""
+"\n"
+"                                <strong>Recovery Seed</strong> is the 24-"
+"word long recovery phrase, with which you\n"
+"                                can\n"
+"                                restore your\n"
+"                                wallet, in case of theft or loss. It is "
+"absolutely crucial to write down the seed!\n"
+"                                The\n"
+"                                recovery seed will be generated for you "
+"during the setup of your TREZOR.\n"
+"                                "
+msgstr ""
+
+#: pages/start.html:82
+msgid ""
+"\n"
+"                                    Never make a digital copy of your "
+"recovery seed and never upload it\n"
+"                                    online. Keep your\n"
+"                                    recovery seed in a safe place. TREZOR "
+"cannot be held liable for financial losses\n"
+"                                    incurred through the client’s improper "
+"care of sensitive information.\n"
+"                                    "
+msgstr ""
+
+#: pages/start.html:93
+msgid "Learn more about Recovery"
+msgstr ""
+
+#: pages/start.html:110
+msgid "Stay updated about important news."
+msgstr ""
+
+#: pages/start.html:116
+msgid ""
+"\n"
+"                                In order to stay fully informed about "
+"security and feature updates from our\n"
+"                                experts,\n"
+"                                please subscribe to our TREZOR newsletter.\n"
+"                                "
+msgstr ""
+
+#: pages/start.html:136
+msgid "No, skip it"
+msgstr ""
+
+#: pages/start.html:148
+msgid "Please take some time to familiarize yourself with our policies first."
+msgstr ""
+
+#: pages/start.html:153
+msgid "Warranty information"
+msgstr ""
+
+#: pages/start.html:157
+msgid "Done, let's go!"
+msgstr ""
+
+#: pages/start.html:161
+msgid "You will be redirected to TREZOR Wallet to setup your device."
+msgstr ""
+
+#: pages/support.html:8
+msgid "Support Center."
+msgstr ""
+
+#: pages/support.html:10
+msgid "How can we help you?"
+msgstr ""
+
+#: pages/troubleshooter.html:6
+msgid "Troubleshooter"
+msgstr ""
+
+#: pages/troubleshooter.html:18
+msgid "Loading..."
+msgstr ""
+
+#: pages/troubleshooter.html:29
+msgid "Hello, do you need help with your TREZOR?"
+msgstr ""
+
+#: pages/troubleshooter.html:42
+msgid "Technical Issues"
+msgstr ""
+
+#: pages/troubleshooter.html:67
+msgid "Orders &amp; Shipping"
+msgstr ""
+
+#: pages/troubleshooter.html:69
+msgid ""
+"\n"
+"                    <p>Order - Did you order a TREZOR and haven't received "
+"it yet?</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:88
+msgid ""
+"\n"
+"                <h4 class=\"header\">Wallet doesn't detect the device.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:92
+msgid ""
+"\n"
+"                    <p>Many different factors could cause this problem. "
+"Let's troubleshoot this issue further. Could you share\n"
+"    more information with us?</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:105
+msgid "Wallet keeps asking me to download the bridge."
+msgstr ""
+
+#: pages/troubleshooter.html:107
+msgid ""
+"\n"
+"                    <p>This usually means that a transport method is missing "
+"or that it was not installed correctly. You can use either TREZOR Bridge or "
+"<a href=\"https://chrome.google.com/webstore/detail/trezor-chrome-extension/"
+"jcjjhjgimijdkoamemaghajlhegmoclj?hl=en\">TREZOR Chrome extension</a>.</p> \n"
+"                    <p>However, it could also mean that something in your "
+"browser or your computer configuration may be blocking the connection with "
+"your TREZOR. The most common culprits are content blockers, such as AdBlock "
+"or script blockers.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:119
+msgid ""
+"\n"
+"                <h4 class=\"header\">TREZOR won't power up.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:123
+msgid ""
+"\n"
+"                    <p><em>After plugging in the device, its screen won't "
+"power up at all. </em></p>\n"
+"                    <p>Please, try using a different micro USB cable.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:135
+msgid ""
+"\n"
+"                <h4 class=\"header\">Still didn't receive my TREZOR.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:139
+msgid ""
+"\n"
+"                    <p>We are sorry for the delays. However, the delivery "
+"date depends on many factors.</p>\n"
+"                    <p><strong>Where can I follow my order (get a tracking "
+"number)?</strong></p>\n"
+"                    <p>By logging into <a href=\"https://shop.trezor.io/user/"
+"login/\">TREZOR\n"
+"    Shop account</a> and clicking order creation date in My Orders page, you "
+"can see the details of your order. Your\n"
+"    user login has been created when you first purchased your TREZOR. If you "
+"do not have your password, please reset it with the <a href=\"https://shop."
+"trezor.io/user/password-reset/\">Password recovery</a> form.</p>\n"
+"                    <p><strong>DHL shipping</strong></p>\n"
+"                    <p>DHL shipping is the default shipping option, and it "
+"is fully traceable. Once the package leaves our fulfillment center, the "
+"delivery usually takes between 2-5 business days. You can track the parcel "
+"via <a\n"
+"                            href=\"http://www.dhl.com/en/express/tracking."
+"html\">DHL tracking</a></p>\n"
+"                    <p><strong>Standard shipping</strong></p>\n"
+"                    <p>Standard shipping option is only available in EU "
+"countries. Its traceability is limited. Delivery time may vary between 5 "
+"days to 6\n"
+"                        weeks depending on your location and your national "
+"post service. Parcel sent via Standard shipping can be <a\n"
+"                                href=\"https://www.ceskaposta.cz/en/"
+"trackandtrace\">traced here</a> until it leaves the country\n"
+"    of origin. Thereafter it can be traced on the website of the postal "
+"service in your country, if available.\n"
+"                    </p>\n"
+"                    <br/>\n"
+"                    <p>Thank you for your patience!<br/>We will notify you "
+"of any\n"
+"    significant changes to your order by email as well.</p>\n"
+"    \t\t\t\t<p>In case you need to contact our Support Team regarding your "
+"order, please <a href=\"https://satoshilabs.kayako.com/conversation/"
+"new/10\">submit a ticket here</a>.</p> \n"
+"    \t\t\t\t"
+msgstr ""
+
+#: pages/troubleshooter.html:164
+msgid ""
+"\n"
+"                <h4 class=\"header\">Tracking says NOT FOUND.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:168
+msgid ""
+"\n"
+"                    <p>This situation has two possible explanations: </"
+"p><p><strong>1. The package left Europe,\n"
+"    and it is now untraceable until destination country's postal service "
+"claims it.</strong></p><p>After\n"
+"    leaving the country of origin, the parcel travels to a foreign country "
+"where it is accepted at customs service. This is\n"
+"    where most of the delays happen. It is unfortunate because the delivery "
+"will appear in the customer's\n"
+"    post tracking system only after it is released by the customs. For "
+"example, we have one delivery which was held by\n"
+"    US customs office for nearly 6 weeks.</p><p><strong>2. The package got "
+"lost. In this case, please\n"
+"    <a href=\"https://satoshilabs.kayako.com/conversation/new/10\">submit a "
+"ticket</a> to contact our customer support.</strong></p><p>In rare cases, "
+"when\n"
+"    choosing standard shipping, your package may not arrive at all. It is "
+"very unfortunate, but it can happen\n"
+"    occasionally. In such case, we consider it as a <strong>lost package</"
+"strong>, and we start the <strong>investigation</strong> process.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:187
+msgid "Warranty"
+msgstr ""
+
+#: pages/troubleshooter.html:189
+msgid ""
+"\n"
+"                    <p>Is your TREZOR broken, or it didn't work when you "
+"received it?</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:200
+msgid ""
+"\n"
+"                <h4 class=\"header\">TREZOR device is clearly broken.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:204
+msgid ""
+"\n"
+"                    <p>Examples of hardware issues which are eligible for "
+"the return process (RMA) straight away.</p><ul><li>Burnt\n"
+"    pixels in screen</li><li>\"Dead screen\"</li><li>Dysfunctional\n"
+"    buttons</li></ul><p>If you're facing some of the issues above or "
+"different hardware failures which\n"
+"    clearly were not caused by physical damage, please feel free to contact "
+"our support.</p><p>Where did you\n"
+"    buy your device?</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:220
+msgid "I would like to get details about the warranty."
+msgstr ""
+
+#: pages/troubleshooter.html:222
+msgid ""
+"\n"
+"                    <p><strong>Warranty Period</strong></p><p>We warrant the "
+"product, its\n"
+"    components, and labor to be free from defects in material and "
+"workmanship under regular uses defined in the user manual\n"
+"    and this Warranty notice during the warranty period. The warranty period "
+"commences on the date of original purchase and\n"
+"    last for two (2) years.</p><p>We further warrant the replaced product "
+"and/or its parts or components to\n"
+"    be free from defects in material and workmanship for a period of thirty "
+"(30) days from the date of replacement, or\n"
+"    the remainder of the warranty period, whichever is greater.</p>\n"
+"    <p><em>In case this notice differs from the legal document available "
+"below or on TREZOR Shop, the latter's terms apply.</em></p>\n"
+"    <p><a\n"
+"                        href=\"https://shop.trezor.io/static/shared/warranty-"
+"refund-policy.pdf\">Warranty\n"
+"    &amp; Refund Policy</a></p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:239
+msgid "Change my order information."
+msgstr ""
+
+#: pages/troubleshooter.html:241
+msgid ""
+"\n"
+"                    <p>Orders are processed within 48 hours during business "
+"days. It is possible to change the order \n"
+"                    only if it is not in \"shipped\" or \"processing\" "
+"status.</p>\n"
+"                    <p>\n"
+"                    Please <a href=\"https://satoshilabs.kayako.com/"
+"conversation/new/10\">contact our Support Team</a> to file your request.\n"
+"                    </p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:253
+msgid "Change shipping address."
+msgstr ""
+
+#: pages/troubleshooter.html:255
+msgid ""
+"\n"
+"                    <p>If we have already shipped your package, then this "
+"option is unfortunately not possible anymore.</p><p>If\n"
+"    we have not shipped the package yet, you can login to your TREZOR Shop "
+"<a title=\"account\"\n"
+"                                                                         href="
+"\"https://shop.trezor.io/user/profile/\">account</a>\n"
+"    and change the address yourself.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:266
+msgid ""
+"\n"
+"                <h4 class=\"header\">Missed parcel delivery.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:270
+msgid ""
+"\n"
+"                    <p>We are sorry to hear about that. Fortunately, these "
+"honest mistakes tend to happen only in very rare cases.</p><p><strong>What "
+"can I\n"
+"    do now?</strong></p><p>Sorry, but there is nothing to do at the moment. "
+"The package will be returned back\n"
+"    to us. We will contact you to check whether the shipping address is "
+"correct, and re-ship the package as soon as possible. Free of\n"
+"    charge for the first resend, of course.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:281
+msgid "How do I create/enter a PIN?"
+msgstr ""
+
+#: pages/troubleshooter.html:283
+msgid ""
+"\n"
+"                    <p>PIN is a number combination that you set during the "
+"initial setup of your TREZOR. It protects your TREZOR\n"
+"    from being used by unauthorized persons. Just like the PIN for your "
+"credit card, it should be only known to you.</p><p><strong>Malware-proof\n"
+"    PIN entry</strong></p><p>We have invented a safe way of entering PIN so "
+"that you can use your\n"
+"    TREZOR even on a computer with viruses and keyloggers (designed to "
+"capture everything as you type).</p><p>When\n"
+"    your PIN is required, a PIN matrix, with dots instead of the numbers, "
+"will appear on your computer screen. The\n"
+"    TREZOR display will show you which number corresponds to which number "
+"tile. The placement of the numbers will be randomly shuffled with every new "
+"PIN prompt. Every time you use\n"
+"    your TREZOR, you will need to look at the device to find the actual "
+"placement of the numbers you want to enter.</p><p>This\n"
+"    method protects you from keyloggers - your computer never knows what you "
+"are actually entering, only the TREZOR\n"
+"    itself \"translates\" the clicked positions into the actual PIN numbers. "
+"It also makes it difficult for\n"
+"    other people to eye up your PIN code - if somebody is looking over your "
+"shoulder, he may see you clicking some blank\n"
+"    buttons, but he won't see your PIN digits. The observer would need to "
+"see both the TREZOR display and your computer\n"
+"    screen at the same time, which is quite difficult if you are careful.</"
+"p><p>Still a bit of enigma to you? Take a look\n"
+"    at this <a href=\"https://youtu.be/sx4XzJRpsig\">video</a>!</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:303
+msgid "I forgot my PIN?"
+msgstr ""
+
+#: pages/troubleshooter.html:305
+msgid ""
+"\n"
+"                    <p>Your PIN is independent of the seed. That means, that "
+"you can set a new PIN with the TREZOR recovery\n"
+"    process, in case you forget it. You only need to have access to your "
+"seed to do so, which also means that your PIN\n"
+"    does NOT protect your seed from being compromised. The PIN only protects "
+"your device from <em>curious</em>\n"
+"    people.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:316
+msgid "How does the recovery seed work?"
+msgstr ""
+
+#: pages/troubleshooter.html:318
+msgid ""
+"\n"
+"                    <p>The Recovery seed usually contains a sequence of 24 "
+"words - uniquely and securely generated inside\n"
+"    your TREZOR when you first set it up.</p>\n"
+"                    <p>It is very important to keep this backup sentence "
+"secret\n"
+"    and safe!</p>\n"
+"                    <p>In case your device gets lost, you will need the seed "
+"for recovery - a simple process when you\n"
+"    enter the words of your seed, in the order as prompted, into a new "
+"TREZOR device. You may also use any other Bitcoin\n"
+"    wallet that supports the same standard as TREZOR (<a\n"
+"                                href=\"https://doc.satoshilabs.com/trezor-"
+"tech/cryptography.html#mnemonic-recovery-seed-bip39\">BIP39</a>).</p><p>Do\n"
+"    not underestimate the process of writing down the seed; make sure you "
+"have all words correctly spelled and in the\n"
+"    right order.</p>\n"
+"                    <p>Never make a digital copy of your seed, i.e. do not "
+"store it in any form on any\n"
+"    computer, mobile phone or cloud storage. Consider your seed compromised "
+"once you make a digital copy of it, even if\n"
+"    you do it on an offline device such as a copy machine or a digital "
+"camera. We cannot stress this enough: only store the\n"
+"    seed offline - written on a piece of paper, engraved, or with a <a\n"
+"                                href=\"https://shop.trezor.io/"
+"\">Cryptosteel</a> (not available at the moment, waiting to be restocked).</"
+"p><p>What\n"
+"    does the Recovery seed actually represent?</p><p>TREZOR doesn't store "
+"anything else than a \"master\n"
+"    key\" it its memory. The 24 words sequence, which is your Recovery seed, "
+"is the representation of your master key translated into human-readable "
+"words.</p>\n"
+"                    <p>Your TREZOR creates a unique structure of private "
+"keys out of this single master key that are then used to:</p>\n"
+"                    <ul>\n"
+"                        <li>Sign your bitcoin transactions.</li>\n"
+"                        <li>Encrypt your passwords in TREZOR Password "
+"Manager.</li>\n"
+"                        <li>Log into websites, or servers via SSH.</li>\n"
+"                        <li>Sign messages.</li>\n"
+"                    </ul>\n"
+"                    <p>This means that\n"
+"    if you lose your Recovery seed, you may lose access to all of those "
+"features. Read more about \"What If\"\n"
+"    situations in the <a href=\"https://doc.satoshilabs.com/trezor-faq/"
+"threats.html\">TREZOR User Manual</a>.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:352
+msgid "How does a passphrase work?"
+msgstr ""
+
+#: pages/troubleshooter.html:354
+msgid ""
+"\n"
+"                    <p>A passphrase can be any word, a set of letters or "
+"even a sentence. You could also consider the\n"
+"    passphrase to be the 25th word of the seed, as with the passphrase an "
+"entirely wallet will be generated.</p><p>Your passphrase should be "
+"memorable, though.\n"
+"    Typically, you would not write it down anywhere, to eliminate any "
+"possibility of it being discovered. Remember that\n"
+"    you are entering the passphrase directly into the computer, and this "
+"process is not protected against keyloggers\n"
+"    like the PIN entry. For this reason, you should not be tempted to "
+"disable your PIN even if you use the passphrase feature!</p><p>If\n"
+"    you enable the passphrase protection, you will be asked for a passphrase "
+"every time you connect your TREZOR and work\n"
+"    with a bitcoin (altcoin) wallet such as TREZOR Wallet or Electrum.</"
+"p><p>The passphrase has a triple\n"
+"    security effect.</p><p>1. It makes your TREZOR impervious to physical "
+"attack. Even if your TREZOR was\n"
+"    stolen and the chip examined under an electron microscope to discover "
+"your recovery seed, your bitcoins will still\n"
+"    be safe!</p><p>2. It protects your bitcoins in case someone steals your "
+"Recovery seed from you. Without\n"
+"    your passphrase, the thief won't be able to access your coins.</p><p>3. "
+"A passphrase or more passphrases\n"
+"    can be used with the same TREZOR device to create the so-called \"hidden "
+"wallets,\" giving you a great\n"
+"    advantage in situations such as being held at a gunpoint, (also known as "
+"the $5-wrench-attack). Use different\n"
+"    passphrases to create \"decoy\" wallets with a low balance next to your "
+"main wallet. <a\n"
+"                            href=\"https://doc.satoshilabs.com/trezor-user/"
+"advanced_settings.html?highlight=hidden#using-passphrase-encrypted-seeds"
+"\">Read\n"
+"    more ...</a></p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:377
+msgid "My recovery seed is stolen?"
+msgstr ""
+
+#: pages/troubleshooter.html:379
+msgid ""
+"\n"
+"                    <p>You need to keep your recovery seed safe from theft. "
+"If your recovery seed is stolen and you do not have a passphrase protection "
+"set up, then your coins can be stolen. However, if you like, TREZOR can "
+"protect\n"
+"    against recovery seed theft with <a\n"
+"                                href=\"https://doc.satoshilabs.com/trezor-"
+"user/advanced_settings.html#using-passphrase-encrypted-seeds\">a\n"
+"    passphrase</a>, and therefore eliminate this risk.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:390
+msgid "What if my computer that runs my bitcoin wallet is stolen?"
+msgstr ""
+
+#: pages/troubleshooter.html:392
+msgid ""
+"\n"
+"                    <p>If your computer gets stolen, just plug your TREZOR "
+"to another computer and you will get your account\n"
+"    balance and transaction history. If your TREZOR gets lost as well, "
+"simply recover the seed from your paper backup\n"
+"    to a new TREZOR device or any TREZOR compatible wallet software.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:402
+msgid "Start an investigation."
+msgstr ""
+
+#: pages/troubleshooter.html:404 pages/troubleshooter.html:414
+msgid ""
+"\n"
+"                    <p>Sorry for the inconvenience, please <a href=\"https://"
+"satoshilabs.kayako.com/conversation/new/10\">send us a message</a> including "
+"the information about your order (name and email from your order) and our "
+"Support Team will answer in a timely manner.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:412 pages/troubleshooter.html:1292
+msgid "No, report failure."
+msgstr ""
+
+#: pages/troubleshooter.html:422
+msgid ""
+"\n"
+"                <h4 class=\"header\">I tried using a different cable.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:426
+msgid ""
+"\n"
+"                    <p>Did this step help? If not, let's troubleshoot this "
+"issue even further. Try to connect your TREZOR device to different computer."
+"</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:438
+msgid "I connected TREZOR to a different computer."
+msgstr ""
+
+#: pages/troubleshooter.html:440
+msgid "Did that work?"
+msgstr ""
+
+#: pages/troubleshooter.html:450
+msgid "Yes, it works!"
+msgstr ""
+
+#: pages/troubleshooter.html:451
+msgid "Great! Good job on fixing the issue."
+msgstr ""
+
+#: pages/troubleshooter.html:456
+msgid "Check if the trezord process is running."
+msgstr ""
+
+#: pages/troubleshooter.html:458
+msgid ""
+"\n"
+"                    <p>If you are sure that you have already installed the "
+"bridge software and TREZOR Wallet keeps asking you to\n"
+"    install it, it is quite possible that the process running in the "
+"background froze.</p><p>Please go to the task manager of\n"
+"    your OS and check if the process called \"trezord\" is currently "
+"running. Restart it if necessary.</p><p>Direct link to\n"
+"    Bridge software is <a href=\"https://beta-wallet.trezor.io/data/bridge/"
+"latest/index.html\">here</a>.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:473
+msgid ""
+"\n"
+"                <h4 class=\"header\">I've restarted the bridge and it works!"
+"</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:476
+msgid "Yay! Great job on resolving the issue :)"
+msgstr ""
+
+#: pages/troubleshooter.html:481
+msgid "Still nothing (Run the browser in private/incognito mode)."
+msgstr ""
+
+#: pages/troubleshooter.html:483
+msgid ""
+"\n"
+"                    <p>Okay, there might be some add-on which blocks the "
+"communication. Please try running your browser in a\n"
+"    private/incognito mode of the browser.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:496
+msgid "Still nothing. (Try the supported browser - Chrome or Firefox)"
+msgstr ""
+
+#: pages/troubleshooter.html:498
+msgid ""
+"\n"
+"                    <p> Thanks for the update. So we are facing a more "
+"complex issue. Please try to go to TREZOR Wallet in a\n"
+"    different browser to see if the bridge behaves the same way in a "
+"different environment. Also, if you are using a Google\n"
+"    Chrome, there is a very convenient extension which can fully replace the "
+"Bridge.</p><p><a\n"
+"                        href=\"https://chrome.google.com/webstore/detail/"
+"trezor-chrome-extension/jcjjhjgimijdkoamemaghajlhegmoclj\">Download TREZOR\n"
+"    Chrome extension</a>.</p><p>Also,\n"
+"    feel free to try <a href=\"https://beta-wallet.trezor.io\">our beta "
+"server</a>.</p><p>Download\n"
+"    link for <a href=\"https://www.google.com/intl/en/chrome/browser/desktop/"
+"\">Google Chrome</a>\n"
+"    and <a href=\"https://www.mozilla.org/en-US/firefox/new/\">Firefox</a>.</"
+"p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:517
+msgid ""
+"\n"
+"                <h4 class=\"header\">Wallet still doesn't detect the bridge "
+"or extension.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:521
+msgid ""
+"\n"
+"                    <p>Sorry for the inconvenience, please <a href=\"#\" "
+"onclick=\"return gotoTroubleshooter()\" class=\"troubleshooterLink\">send us "
+"a message</a> including the information about your operating system, browser "
+"version and details about the issue. Our Support Team will respond in a "
+"timely manner.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:529
+msgid ""
+"\n"
+"                <h4 class=\"header\">Wallet is \"stuck\", unable to load "
+"accounts.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:541
+msgid "I currently use Safari."
+msgstr ""
+
+#: pages/troubleshooter.html:543
+msgid ""
+"\n"
+"                    <p>Unfortunately, Safari browser is not officially "
+"supported. Please\n"
+"    use a different browser like Chrome or Firefox. We are planning to add "
+"Safari to the supported browsers in the near future.</p><p>Thank you for\n"
+"    understanding.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:556
+msgid ""
+"\n"
+"                <h4 class=\"header\">TREZOR doesn't work after firmware "
+"update.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:560
+msgid ""
+"\n"
+"                    <p>If the system does not recognize the device after a "
+"firmware update, go to the Device Manager and\n"
+"    force the drivers to update. With FIDO implemented, Windows regards "
+"TREZOR as a new device, and sometimes the\n"
+"    drivers do not update automatically.</p>\n"
+"                    <p>Here are some instructions how to open \"Device "
+"manager\"\n"
+"    and update necessary drivers depending on the system you're using. "
+"TREZOR is usually reported as <em>USB\n"
+"    Composite Device</em> in Device manager (rarely, it can be found as "
+"\"Human Interface Device\").</p>\n"
+"                    <p><strong>Through Run command</strong></p>\n"
+"                    <ul>\n"
+"                        <li>Press Win + R to open Run command</li>\n"
+"                        <li>Type: devmgmt.msc and hit Enter</li>\n"
+"                        <li><em>Device manager window will appear</em></li>\n"
+"                        <li>Find \"Other devices\" and click on it with "
+"right button</li>\n"
+"                        <li>Choose \"Update driver software\"</li>\n"
+"                    </ul>\n"
+"                    <p><strong>Through Search</strong></p>\n"
+"                    <ul>\n"
+"                        <li>Press Win to open the start menu</li>\n"
+"                        <li>Type: Device Manager, until the option shows up "
+"and select it</li>\n"
+"                        <li><em>Device manager window will appear</em></li>\n"
+"                        <li>Find \"Other devices\" and click on it with "
+"right button</li>\n"
+"                        <li>Choose \"Update driver software\"</li>\n"
+"                    </ul>\n"
+"                    <p>Sometimes the necessary driver can be found in "
+"\"Universal Serial Bus controllers\" section, under the name \"USB composite "
+"device\". In rare cases, you can also find the necessary driver in \"Human "
+"Interface devices\".\n"
+"If you're not sure, which driver to update, you can try to unplug and plug "
+"your TREZOR again, to see if there are some changes in the current section "
+"of \"Device manager\". Deleting the needed driver can also do the trick, as "
+"the system will update the driver automatically.\n"
+"If it didn't help please have a look for any icon with a yellow triangle "
+"with \"!\" marked inside, click on the item with right mouse button and "
+"choose \"update drivers\".</p>\n"
+"                    <p><strong>Alternative instructions:</strong></p>\n"
+"                    <ul>\n"
+"                        <li>Go to Control Panel / All Control Panel Items / "
+"Devices and Printers</li>\n"
+"                        <li>Click on it and check if you see message: "
+"\"Needs troubleshooting\"</li>\n"
+"                        <li>Perform the troubleshooting</li><li>Restart the "
+"computer</li>\n"
+"                    </ul>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:598
+msgid "Firmware update went wrong."
+msgstr ""
+
+#: pages/troubleshooter.html:600
+msgid ""
+"\n"
+"                    <p>Updating your TREZOR's firmware unlocks brand new "
+"features and keeps your device secure. Sometimes this process\n"
+"    could be interrupted and unfinished, but solving such issue is usually "
+"very easy.</p><p><strong>Updating the Firmware</strong></p><ul><li>Without\n"
+"    closing the TREZOR Wallet website, unplug your TREZOR. Now press down "
+"both buttons on your TREZOR. Holding down the\n"
+"    buttons, plug your TREZOR back in. It may help if you hold your TREZOR "
+"from the top in a pinching motion.</li><li>Once\n"
+"    you have plugged your TREZOR in, you will see a dialog on the wallet."
+"trezor.io website asking if you want to update.</li><li>Press\n"
+"    \"Yes, update\"</li><li>Now press the right button on your TREZOR to "
+"confirm the update. Wait a\n"
+"    few minutes while the update runs. Once it's done you can unplug and "
+"replug your TREZOR to finish the update.</li></ul>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:618
+msgid "Unofficial firmware detected."
+msgstr ""
+
+#: pages/troubleshooter.html:620
+msgid ""
+"\n"
+"                    <p> <a href=\"https://doc.satoshilabs.com/trezor-user/"
+"updatingfirmware.html\">Please, try running the\n"
+"    update again</a>.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:633
+msgid "Firmware appears to be broken."
+msgstr ""
+
+#: pages/troubleshooter.html:635
+msgid ""
+"\n"
+"                    <ol><li><a href=\"https://doc.satoshilabs.com/trezor-"
+"user/updatingfirmware.html\">Please, try running\n"
+"    the update again</a>.</li><li>If it\n"
+"    still doesn't work please try using different a USB cable and proceed to "
+"step 1.</li></ol>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:649 pages/troubleshooter.html:659
+msgid "No, the issue persists."
+msgstr ""
+
+#: pages/troubleshooter.html:651 pages/troubleshooter.html:661
+#: pages/troubleshooter.html:702 pages/troubleshooter.html:790
+msgid ""
+"\n"
+"                    <p>Sorry for the inconvenience, please <a href=\"#\" "
+"onclick=\"return gotoTroubleshooter()\" class=\"troubleshooterLink\">send us "
+"a message</a> including the information about your operating system, browser "
+"version and issue details. Our Support Team will answer in a timely manner.</"
+"p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:669
+msgid "Wallet shows wrong account information."
+msgstr ""
+
+#: pages/troubleshooter.html:671
+msgid ""
+"\n"
+"                    <ol><li>Run <a href=\"https://doc.satoshilabs.com/trezor-"
+"user/forgetting.html\">Forget\n"
+"    device</a></li><li>Unplug your TREZOR</li><li>Plug your TREZOR back in</"
+"li></ol>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:684
+msgid "My balance is still incorrect."
+msgstr ""
+
+#: pages/troubleshooter.html:686
+msgid ""
+"\n"
+"                    <p>Discrepancies in the total balance may often be "
+"solved by changing the backend server.</p><ol><li>Scroll\n"
+"    down and click \"Application settings\".</li><li>Select a different "
+"bitcoin backend server.</li><li>Check\n"
+"    if the balance is correct now. </li></ol>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:700
+msgid "No, problem persists."
+msgstr ""
+
+#: pages/troubleshooter.html:710
+msgid "Wallet stopped responding."
+msgstr ""
+
+#: pages/troubleshooter.html:712
+msgid ""
+"\n"
+"                    <ol><li>Unplug your TREZOR</li><li>Refresh <a href="
+"\"https://wallet.trezor.io/\">TREZOR\n"
+"    Wallet</a> or try <a href=\"https://beta-wallet.trezor.io\">TREZOR "
+"Wallet (Beta)</a></li><li>Plug\n"
+"    your TREZOR back in</li></ol><p>You can unplug your TREZOR at any time "
+"except during the update\n"
+"    procedure. There is no risk of data loss.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:727
+msgid "Try a different browser instead."
+msgstr ""
+
+#: pages/troubleshooter.html:729
+msgid ""
+"\n"
+"                    <p>Sometimes your browser might be running too many "
+"tasks at once or there might be a problem with\n"
+"    compatibility. Try accessing the website with a different browser. You "
+"can also try to connect your device with a\n"
+"    different micro USB cable.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:739
+msgid ""
+"\n"
+"                <h4 class=\"header\">I'm having issues with bridge re-"
+"install. (Windows)</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:743
+msgid ""
+"\n"
+"                    <p>If you see following error message or similar:</"
+"p><p><em>Output folder: C:\\Program\n"
+"    Files (x86)\\TREZOR Bridge</em></p><p><em>Can't write: C:\\Program Files "
+"(x86)\\TREZOR\n"
+"    Bridge\\libcrypto-10.dll</em></p><p>You're facing a very simple issue "
+"which is easy to resolve.\n"
+"    Please uninstall the previous version of TREZOR Bridge first and delete "
+"all remaining files, then install the new\n"
+"    version.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:759
+msgid "General questions"
+msgstr ""
+
+#: pages/troubleshooter.html:761
+msgid "List of the Frequently asked questions."
+msgstr ""
+
+#: pages/troubleshooter.html:780
+msgid "It works!"
+msgstr ""
+
+#: pages/troubleshooter.html:781
+msgid "Great job on resolving the issue!"
+msgstr ""
+
+#: pages/troubleshooter.html:786
+msgid ""
+"\n"
+"                <h4 class=\"header\">No, still doesn't work.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:798
+msgid ""
+"\n"
+"                <h4 class=\"header\">TREZOR Shop</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:802
+msgid ""
+"\n"
+"                    <p>Sorry for the inconvenience, please <a href=\"#\" "
+"onclick=\"return gotoTroubleshooter()\" class=\"troubleshooterLink\">send us "
+"a message</a> including the information about your order (order number, "
+"profile email, etc...) and issue and our Support Team will answer in a "
+"timely manner.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:812
+msgid "Amazon.com"
+msgstr ""
+
+#: pages/troubleshooter.html:814
+msgid ""
+"\n"
+"                    <p>According to our Terms &amp; Conditions, all of the "
+"RMA's purchased on Amazon are handled and\n"
+"    processed by our resellers. Please feel free to contact the reseller "
+"directly via the Amazon customer interface.</p><p>Thank\n"
+"    you.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:824
+msgid ""
+"\n"
+"                <h4 class=\"header\">Wallet shows only \"Connect TREZOR to "
+"continue\".</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:828
+msgid ""
+"\n"
+"                    <p>Please make sure that you are using a <a\n"
+"                            href=\"https://doc.satoshilabs.com/trezor-faq/"
+"overview.html#which-operating-systems-and-devices-support-trezor\">supported "
+"configuration</a>.\n"
+"    If yes, please follow one of the links below.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:843
+msgid ""
+"\n"
+"                <h4 class=\"header\">Wallet is stuck at \"Loading TREZOR "
+"Wallet is starting\"</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:847
+msgid ""
+"\n"
+"                    <p>Please make sure that you you're using a <a\n"
+"                            href=\"https://doc.satoshilabs.com/trezor-faq/"
+"overview.html#which-operating-systems-and-devices-support-trezor\">supported "
+"configuration</a>.\n"
+"    If yes, please follow one of the links below.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:861
+msgid ""
+"\n"
+"                <h4 class=\"header\">Please check if the \"trezord\" process "
+"is running.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:865
+msgid ""
+"\n"
+"                    <p>This process is responsible for smooth running of the "
+"TREZOR Bridge. If you don't see the process in\n"
+"    your task manager, please re-install the Bridge again. Alternatively, "
+"you can use our Chrome extension if you use Google Chrome.</p><p>Link\n"
+"    to download is <a\n"
+"                            href=\"https://chrome.google.com/webstore/detail/"
+"trezor-chrome-extension/jcjjhjgimijdkoamemaghajlhegmoclj\">here</a>.</"
+"p><p>In\n"
+"    case you need a bridge software, the link is <a href=\"https://beta-"
+"wallet.trezor.io/data/bridge/latest/index.html\">here</a>.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:881
+msgid "I use a different browser than Safari."
+msgstr ""
+
+#: pages/troubleshooter.html:883
+msgid ""
+"\n"
+"                    <p>The major supported browsers are Chrome and Firefox. "
+"If changing your browser didn't help, please try to connect your device via "
+"a different standard issue micro USB cable.</p><p>Did that work?</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:894
+msgid "Still stuck on loading."
+msgstr ""
+
+#: pages/troubleshooter.html:896 pages/troubleshooter.html:916
+msgid ""
+"\n"
+"                    <p>Sorry for the inconvenience, please <a href=\"#\" "
+"onclick=\"return gotoTroubleshooter()\" class=\"troubleshooterLink\">send us "
+"a message</a> including the information about your operating system, browser "
+"version and our Support Team will answer in a timely manner.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:904
+msgid ""
+"\n"
+"                <h4 class=\"header\">I've reinstalled and all works fine now."
+"</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:907
+msgid "Amazing, great job on resolving the issue!"
+msgstr ""
+
+#: pages/troubleshooter.html:912
+msgid ""
+"\n"
+"                <h4 class=\"header\">No, it didn't help.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:924
+msgid ""
+"\n"
+"                <h4 class=\"header\">I'm using Linux and installed TREZOR "
+"Chrome extension.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:928
+msgid ""
+"\n"
+"                    <p>Did you set the UDEV rules? You can find the "
+"necessary instructions  <a\n"
+"                            href=\"http://doc.satoshilabs.com/trezor-user/"
+"settingupchromeonlinux.html\">here</a>.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:937
+msgid "I've installed TREZOR bridge."
+msgstr ""
+
+#: pages/troubleshooter.html:939
+msgid ""
+"\n"
+"                   <p>TREZOR bridge is a transport protocol used for the "
+"communication between <a href=\"http://wallet.trezor.io\">TREZOR Wallet</a> "
+"and TREZOR device. It has no user interface. If you installed it "
+"successfully,\n"
+"                            you should see \"trezord\" process running on "
+"your operating system via Task Manager. It could be blocked by\n"
+"                            some add-on (like Ghostery or Privacy), "
+"antivirus or VPN settings.</p><p>In a case you still encounter\n"
+"                            the problems with TREZOR bridge, you can "
+"download an alternative transport protocol \n"
+"                            <a href=\"https://chrome.google.com/webstore/"
+"detail/trezor-chrome-extension/jcjjhjgimijdkoamemaghajlhegmoclj?hl=en"
+"\">TREZOR Chrome extension</a> and use it instead.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:955
+msgid ""
+"\n"
+"                <h4 class=\"header\">Report bug.</h4>\n"
+"                "
+msgstr ""
+
+#: pages/troubleshooter.html:959
+msgid ""
+"\n"
+"                    <p>Sorry for the inconvenience, please <a href=\"#\" "
+"onclick=\"return gotoTroubleshooter()\"  class=\"troubleshooterLink\">send "
+"us a message</a> including the information about the bug, your operating "
+"system, browser version and issue details. Our Support Team will answer in a "
+"timely manner.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:967
+msgid "Supported cryptocurrencies."
+msgstr ""
+
+#: pages/troubleshooter.html:969
+msgid ""
+"\n"
+"                   <p>Our <a href=\"http://wallet.trezor.io\">TREZOR Wallet</"
+"a> supports Bitcoin, Litecoin, Dash and ZCash; other cryptocurrencies can be "
+"supported through third-party wallets (like <a\n"
+"                           href=\"myetherwallet.com\">MyEtherWallet</a> for "
+"ETH/ETC and ERC-20 tokens, as an example).\n"
+"                   </p>\n"
+"                    <p>There are no wallet interfaces, which support TREZOR "
+"device for Dogecoin and Namecoin at the moment. They are only supported by "
+"the firmware.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:984
+msgid "I want to store Ethereum."
+msgstr ""
+
+#: pages/troubleshooter.html:986
+msgid ""
+"\n"
+"                   <p>All you need is a TREZOR device in combination with <a "
+"href=\"myetherwallet.com\">MyEtherWallet</a> as an interface, where you will "
+"manage your ethers. Your TREZOR must already be initialized by <a\n"
+"                           href=\"http://wallet.trezor.io\">TREZOR Wallet</"
+"a> or any compatible app. Moreover, TREZOR needs to be updated, at least to "
+"firmware version 1.4.0.\n"
+"                      </p><p>Ethereum is fundamentally too different from "
+"bitcoin, so it is not supported directly in TREZOR Wallet. There is no need "
+"to worry about your ethers' security, however. Despite using MyEtherWallet, "
+"your security is still provided by our hardware.\n"
+"                      </p><p>You can read this <a\n"
+"                        href=\"https://blog.trezor.io/trezor-integration-"
+"with-myetherwallet-3e217a652e08#.vtfhx8665\">blog article</a> for further "
+"details.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1003
+msgid "I would like to see more coins supported by TREZOR."
+msgstr ""
+
+#: pages/troubleshooter.html:1005
+msgid ""
+"\n"
+"                   <p>Please relay this wish to the developers of said "
+"cryptocurrency as we do not have the required manpower to develop all "
+"integrations by ourselves. It is impossible for us to have up-to-date "
+"information and understanding of every existing cryptocurrency, after all."
+"<br />\n"
+"                   Developers can contact our integration specialist at "
+"integration@satoshilabs.com.<br />\n"
+"                   Since the number of the requests is high, it may take "
+"some time until your email is answered. Thank you for your patience. \n"
+"                    </p><p>The Support Team, will be provide you with "
+"similar information.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1016
+msgid "I want to receive ethers to my TREZOR."
+msgstr ""
+
+#: pages/troubleshooter.html:1018
+msgid ""
+"\n"
+"                    <p><strong>Please follow these instructions.</strong></"
+"p>\n"
+"                    <ul>\n"
+"                    <li>Plug your TREZOR to the computer</li>\n"
+"                    <li>Go to <a href=\"myetherwallet.com\">MyEtherWallet</"
+"a></li>\n"
+"                    <li>In the upper right corner, make sure you are using "
+"the right asset <em>(ETH or ETC)</em></li>\n"
+"                    <li>Select <em>\"Send Ether & Tokens\"</em></li>\n"
+"                    <li>Select <em>\"TREZOR\"</em> and click on <em>"
+"\"Connect to TREZOR\"</em></li>\n"
+"                    <li>When you're asked to Export your public key, click "
+"on <em>\"Export\"</em></li>\n"
+"                    <li>Enter your PIN for TREZOR (and a Passphrase if "
+"needed)</li>\n"
+"                    <li>Check if the correct HD derivation path is selected "
+"(for ETH there must be TREZOR ETH part and TREZOR ETC part for ETC)</li>\n"
+"                    <li>Choose your address from the list below and click on "
+"<em>\"Unlock your wallet\"</em> (this address will be your receiving "
+"address)</li>\n"
+"                    <li>Copy/paste your Account address and use it for "
+"transferring assets to your TREZOR</li>\n"
+"                </ul>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1042
+msgid "I want to send Ethers from my TREZOR."
+msgstr ""
+
+#: pages/troubleshooter.html:1044
+msgid ""
+"\n"
+"                    <p><strong>Please follow these instructions.</strong></"
+"p>\n"
+"                    <ul>\n"
+"                    <li>Plug your TREZOR to the computer</li>\n"
+"                    <li>Go to <a href=\"myetherwallet.com\">MyEtherWallet</"
+"a></li>\n"
+"                    <li>In the upper right corner, make sure you are using "
+"the right asset <em>(ETH or ETC)</em></li>\n"
+"                    <li>Select <em>\"Send Ether & Tokens\"</em></li>\n"
+"                    <li>Select <em>\"TREZOR\"</em> and click on <em>"
+"\"Connect to TREZOR\"</em></li>\n"
+"                    <li>When you're asked to Export your public key, click "
+"on <em>\"Export\"</em></li>\n"
+"                    <li>Enter your PIN for TREZOR (and a Passphrase if "
+"needed)</li>\n"
+"                    <li>Check if the correct HD derivation path is selected "
+"(for ETH there must be TREZOR ETH part and TREZOR ETC part for ETC)</li>\n"
+"                    <li>From the list of addresses below select the account/"
+"wallet/address you want to send ethers from (balance will show on the "
+"right)</li>\n"
+"                    <li>Enter value, address, and select  <em>\"Generate "
+"Transaction\" </em></li>\n"
+"                    <li>Confirm on TREZOR</li>\n"
+"                    <li>Confirm again on MyEtherWallet (select <em>\"Send "
+"Transaction\"</em>)</li>\n"
+"                    </ul>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1070
+msgid "Can I store Ethereum tokens as well?"
+msgstr ""
+
+#: pages/troubleshooter.html:1072
+msgid ""
+"\n"
+"                   <p>You need TREZOR firmware version 1.5.0 (or above) that "
+"enables the support for ERC-20 tokens. Please read this <a\n"
+"                           href=\"https://blog.trezor.io/trezor-firmware-"
+"updated-to-1-5-0-7a402d3e9f89\">article</a> for more details.\n"
+"                   </p><p> The list of all supported tokens can be found <a\n"
+"                        href=\"https://github.com/trezor/trezor-mcu/blob/"
+"master/firmware/ethereum_tokens.c\">here</a>.\n"
+"                   </p><p>You can use these <a\n"
+"                        href=\"https://www.reddit.com/r/TREZOR/"
+"comments/68rq9i/storing_gnt_using_trezor/\">instructions</a> to manage your "
+"tokens.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1088
+msgid "TREZOR is freezing during various processes."
+msgstr ""
+
+#: pages/troubleshooter.html:1090
+msgid ""
+"\n"
+"                   <p>In such a situation, it is necessary to try your "
+"TREZOR with different USB cables, USB ports and on another computer before "
+"the RMA process for exchanging your TREZOR can be started.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1102
+msgid "I've enabled the passphrase protection."
+msgstr ""
+
+#: pages/troubleshooter.html:1104
+msgid ""
+"\n"
+"                   <p>Please use it only if you are absolutely certain you "
+"know how it works. If you ever forget or lose your passphrase, your wallet "
+"will become irrecoverable.\n"
+"                   </p><p>If you had some coins protected by your TREZOR "
+"before you activated passphrase protection, then you can access them by "
+"entering an empty passphrase. \n"
+"                   In other words, when prompted to enter your passphrase, "
+"you will not insert any character, but hit <em>\"Enter\"</em> button instead."
+"</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1118
+msgid "I can't start the update process."
+msgstr ""
+
+#: pages/troubleshooter.html:1120
+msgid ""
+"\n"
+"                   <p>Please check the version of bootloader. It should be "
+"visible on your TREZOR display when attempting the update process.</p>\n"
+"                    <p>There is a small problem with TREZOR Bootloader "
+"1.3.0, which prevents the device from being properly recognized if a user "
+"holds the device buttons pressed for a longer-than-necessary amount of "
+"time.\n"
+"                   The problem can be resolved by pressing the buttons only "
+"for a short amount of time (click) when entering Bootloader mode.\n"
+"                   </p>\n"
+"                    <strong>We would suggest trying these instructions:</"
+"strong>\n"
+"                   <ul>\n"
+"                       <li>Plug micro-USB into TREZOR.</li>\n"
+"                       <li>Align USB-A to a port on your computer.</li>\n"
+"                       <li>Plug the USB-A into your computer. At the same "
+"time, click both buttons on your TREZOR.</li>\n"
+"                       <li>The device should boot up in Bootloader mode, and "
+"the computer should recognize it.</li>\n"
+"                       <li>If the computer does not recognize your TREZOR, "
+"please try again. Timing is essential.</li>\n"
+"                        <li>Windows users, please check Device Manager if "
+"TREZOR is not recognized repeatedly.</li>\n"
+"                   </ul>\n"
+"                    <p>It should be resolved with a click rather than "
+"holding down the buttons. We have reports that it helped to quickly release "
+"the buttons when plugging the USB cable.\n"
+"                    Even trying it with the different USB cables or ports "
+"can yield the better results. If none of these is working then we will face "
+"the next step in troubleshooting.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1146
+msgid "Sending and receiving with TREZOR."
+msgstr ""
+
+#: pages/troubleshooter.html:1148
+msgid ""
+"\n"
+"                   <p>The instructions are written for Bitcoin, but can be "
+"used even for Litecoin, Dash and ZCash. Please don't be mislead by the "
+"screenshots, the procedure is the same.\n"
+"                   </p>\n"
+"                    <p>The manual for <a\n"
+"                            href=\"http://doc.satoshilabs.com/trezor-user/"
+"receivingpayments.html\">receiving</a> and for <a\n"
+"                            href=\"http://doc.satoshilabs.com/trezor-user/"
+"makingpayments.html\">sending.</a></p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1160
+msgid "I want to be Affiliate/Reseller."
+msgstr ""
+
+#: pages/troubleshooter.html:1162
+msgid ""
+"\n"
+"                   <p>We're very pleased and excited that you've decided to "
+"apply for Affiliate / Reseller partnership.\n"
+"                   </p><p>First of all, please take a few moments and look "
+"into our manual for some <a\n"
+"                        href=\"http://doc.satoshilabs.com/trezor-faq/"
+"affiliate.html\">details.</a>\n"
+"                   </p><p>Here is the link for the <a href=\"https://shop."
+"trezor.io/sales/\">Sales Partners form</a>. Once finished, our Sales Team "
+"will get back to you as soon as possible.\n"
+"                   </p><p>Since the number of the requests is high, it may "
+"take some time until your email is answered. Thank you for your patience. "
+"The Support Team will provide you with the same information.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1174
+msgid "What UASF (other fork) means?"
+msgstr ""
+
+#: pages/troubleshooter.html:1176
+msgid ""
+"\n"
+"                   <p>TREZOR is UASF ready in the same way as for Bitcoin "
+"Unlimited fork. Users will be free to choose in User Interface. No need to "
+"be concerned.\n"
+"                   Whether the UASF eventually happens or not, your coins "
+"with TREZOR will be safe either way.\n"
+"                   Feel free to refer to our official <a\n"
+"                               href=\"https://blog.trezor.io/contingency-"
+"plan-bitcoin-hard-fork-b6ce85cde028\">blog post</a>.</p>\n"
+"                               <p><a href=\"https://blog.trezor.io/trezor-"
+"advisory-uasf-chain-split-fork-2f95cf2c11a0\">Updated article regarding UASF "
+"and August 1st, 2017 is available here</a></p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1188
+msgid "Your company suddenly shuts down?"
+msgstr ""
+
+#: pages/troubleshooter.html:1190
+msgid ""
+"\n"
+"                   <p>First of all, we certainly don't plan to stop our "
+"business, but even if something unexpected happens, you can use a variety of "
+"compatible third-party services for using TREZOR\n"
+"                   or only for recovery process that let you access the "
+"funds directly in the respective wallet.\n"
+"                   </p>\n"
+"                    <p>Here you can find the <a\n"
+"                            href=\"http://doc.satoshilabs.com/trezor-apps/"
+"index.html#recovering-funds-without-trezor-device\">full list</a> of "
+"compatible services.\n"
+"                   Moreover, TREZOR is an open source project, so it is "
+"possible to use the code and build your own solution.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1203
+msgid "I want a promo code."
+msgstr ""
+
+#: pages/troubleshooter.html:1205
+msgid ""
+"\n"
+"                   <p>We release promo codes during some specific dates or "
+"events, always available for a limited amount of time. Unfortunately, we "
+"cannot apply the discount retrospectively.\n"
+"                   </p><p>We believe the device is worth every penny of it's "
+"original price, so you don't need to feel bad about buying it for a full "
+"price as proven by many satisfied customers.\n"
+"                   </p><p>Please subscribe to our Newsletter to be always on "
+"the top of the news and never miss any opportunity.\n"
+"                   You can subscribe at the bottom of our <a href=\"http://"
+"trezor.io\">website</a>.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1216
+msgid "Is there some discount on bulk orders/wholesale?"
+msgstr ""
+
+#: pages/troubleshooter.html:1218
+msgid ""
+"\n"
+"                   <p>Discounts are available when ordering ten or more "
+"units. For the discount list and more information, \n"
+"                   please register first with our <a href=\"https://shop."
+"trezor.io/sales/\">Sales Partner form</a>. Once finished, we will get back "
+"to you as soon as possible.\n"
+"                   </p>\n"
+"                    <p>Since the number of the requests is high, it may take "
+"some time until your email is answered. Thank you for your patience.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1229
+msgid "Status of my order."
+msgstr ""
+
+#: pages/troubleshooter.html:1231
+msgid ""
+"\n"
+"                   <p>You can check the status of your order when you log "
+"into your e-shop <a title=\"account\"\n"
+"                                                                              href="
+"\"https://shop.trezor.io/user/profile/\">account</a>.\n"
+"                   </p><p>Orders are processed within 48 hours during "
+"business days. All unpaid orders are automatically canceled after 24 hours.</"
+"p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1244
+msgid "I've paid, but my order was canceled."
+msgstr ""
+
+#: pages/troubleshooter.html:1246
+msgid ""
+"\n"
+"                   <p>Please log to your e-shop <a title=\"account\"\n"
+"                                                   href=\"https://shop."
+"trezor.io/user/profile/\">account</a> and check if there are more created "
+"orders associated with your e-mail.\n"
+"                   It is possible that the notification of cancellation was "
+"related to another order.</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1259
+msgid "What are the payment options in your e-shop?"
+msgstr ""
+
+#: pages/troubleshooter.html:1261
+msgid ""
+"\n"
+"                   <p>You can pay with bitcoins or with a credit card. "
+"Please visit our <a\n"
+"                           href=\"https://shop.trezor.io/\">e-shop</a> and "
+"see for yourself :).</p>\n"
+"                    "
+msgstr ""
+
+#: pages/troubleshooter.html:1270
+msgid "What if..."
+msgstr ""
+
+#: pages/troubleshooter.html:1282
+msgid "Contact support."
+msgstr ""
+
+#: pages/troubleshooter.html:1294
+msgid ""
+"\n"
+"                    <p>Sorry for the inconvenience, please <a href=\"#\" "
+"onclick=\"return gotoTroubleshooter()\" class=\"troubleshooterLink\">send us "
+"a message</a> including the information about the issue and details like "
+"your operating system and our Support Team will answer in a timely manner.</"
+"p>\n"
+"                    "
+msgstr ""
+
+#: templates/footer.html:20 templates/global_nav.html:20
+msgid "Shop"
+msgstr ""
+
+#: templates/footer.html:23 templates/global_nav.html:23
+msgid "TREZOR"
+msgstr ""
+
+#: templates/footer.html:26 templates/global_nav.html:26
+msgid "Wallet"
+msgstr ""
+
+#: templates/footer.html:29 templates/global_nav.html:29
+msgid "Docs"
+msgstr ""
+
+#: templates/footer.html:32 templates/global_nav.html:32
+msgid "Blog"
+msgstr ""
+
+#: templates/global_nav.html:38
+msgid "Follow us"
+msgstr ""
