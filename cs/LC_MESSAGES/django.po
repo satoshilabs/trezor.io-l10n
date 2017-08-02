@@ -3,32 +3,33 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-02 13:17+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2017-08-02 13:08+0000\n"
+"Last-Translator: Martin Sip <m.sip@volny.cz>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/satoshilabs/trezor-"
+"io/cs/>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 2.16-dev\n"
 
 #: pages/functions.html:9
 msgid "Limitless possibilities."
-msgstr ""
+msgstr "Neomezené možnosti."
 
 #: pages/functions.html:11
 msgid "Get the most out of your TREZOR."
-msgstr ""
+msgstr "Dostaň z TREZORu maximum."
 
 #: pages/functions.html:22
 msgid "Wallet for Bitcoin and others"
-msgstr ""
+msgstr "Peněženka pro Bitcoin a další kryptoměny"
 
 #: pages/functions.html:25
 msgid ""
