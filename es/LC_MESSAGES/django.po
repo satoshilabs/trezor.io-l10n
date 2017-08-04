@@ -3,32 +3,33 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-02 13:17+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2017-08-04 21:21+0000\n"
+"Last-Translator: Yago Ferreyra <yagoferreyra@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/satoshilabs"
+"/trezor-io/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.16-dev\n"
 
 #: pages/functions.html:9
 msgid "Limitless possibilities."
-msgstr ""
+msgstr "Posibilidades infinitas."
 
 #: pages/functions.html:11
 msgid "Get the most out of your TREZOR."
-msgstr ""
+msgstr "Saque el máximo provecho de si TREZOR."
 
 #: pages/functions.html:22
 msgid "Wallet for Bitcoin and others"
-msgstr ""
+msgstr "Monedero para Bitcoins y otros"
 
 #: pages/functions.html:25
 msgid ""
@@ -39,14 +40,20 @@ msgid ""
 "                            DASH and Zcash with a single device.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>La mas confiable y segura manera de guardar sus "
+"Bitcoins. Proteja varias monedas\n"
+"                            digitales. Litecoin,\n"
+"                            DASH y Zcash con un único dispositivo.</p>\n"
+"                        "
 
 #: pages/functions.html:31 pages/index.html:189
 msgid "Go to Wallet"
-msgstr ""
+msgstr "Ir a Wallet"
 
 #: pages/functions.html:36
 msgid "Ethereum integration"
-msgstr ""
+msgstr "Integración con Ethereum"
 
 #: pages/functions.html:38
 msgid ""
@@ -58,15 +65,23 @@ msgid ""
 "                        </p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>\n"
+"                            Protegido con la misma semilla, asegurado con la "
+"misma tecnología. Use Ethereum convenientemente\n"
+"                            en cooperación con nuestros socios de "
+"MyEtherWallet\n"
+"                        </p>\n"
+"                        "
 
 #: pages/functions.html:45
 msgid "Go to MEW"
-msgstr ""
+msgstr "Ir a MEW"
 
 #: pages/functions.html:51 pages/functions.html:59 pages/index.html:110
 #: pages/passwords.html:15
 msgid "Password Manager"
-msgstr ""
+msgstr "Administrador de contraseñas"
 
 #: pages/functions.html:53
 msgid ""
@@ -77,10 +92,16 @@ msgid ""
 "TREZOR.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>Pruebe la aplicación de ultima generación de "
+"administración de contraseñas. Encripte las contraseñas por separado y\n"
+"                            sincronícelas fácilmente en su cuenta privada en "
+"la nube, con TREZOR.</p>\n"
+"                        "
 
 #: pages/functions.html:64
 msgid "Secure Admin SSH Access"
-msgstr ""
+msgstr "Acceso seguro a la administración SSH"
 
 #: pages/functions.html:67
 msgid ""
@@ -90,14 +111,19 @@ msgid ""
 "                            single or multiple sessions.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>Proteja el acceso a sus servidores, base de datos "
+"o a la administración de paginas web. Inicio SSH\n"
+"                            simple o múltiple cesión.</p>\n"
+"                        "
 
 #: pages/functions.html:73
 msgid "SSH Agent on GitHub"
-msgstr ""
+msgstr "Agente SSH en GitHub"
 
 #: pages/functions.html:78 pages/index.html:95
 msgid "2-Factor Authentication"
-msgstr ""
+msgstr "Doble autentificación (2FA)"
 
 #: pages/functions.html:80
 msgid ""
@@ -107,14 +133,19 @@ msgid ""
 "                            TREZOR as your security token.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>Proteja su identidad y sus cuentas on-line. "
+"Habilite el estándar industrial FIDO/U2F y use\n"
+"                            TREZOR como token de seguridad.</p>\n"
+"                        "
 
 #: pages/functions.html:86
 msgid "More about U2F"
-msgstr ""
+msgstr "Más acerca de U2F"
 
 #: pages/functions.html:92
 msgid "Sign &amp; Encrypt with GPG"
-msgstr ""
+msgstr "Firme &amp; encriptado con GPG"
 
 #: pages/functions.html:95
 msgid ""
@@ -123,14 +154,18 @@ msgid ""
 "                            email you create with GPG.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>TREZOR encripta cada documento o\n"
+"                            email con GPG.</p>\n"
+"                        "
 
 #: pages/functions.html:101
 msgid "GPG via SSH Agent"
-msgstr ""
+msgstr "GPG a través del agente SSH"
 
 #: pages/functions.html:108
 msgid "Password-less Login"
-msgstr ""
+msgstr "Inicio sin contraseña"
 
 #: pages/functions.html:110
 msgid ""
@@ -139,14 +174,18 @@ msgid ""
 "button, using TREZOR Connect.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>Regístrese e inicie sesión de forma segura sólo "
+"con presionar un botón, utilizando TREZOR Connect.</p>\n"
+"                        "
 
 #: pages/functions.html:115
 msgid "TREZOR Connect on GitHub"
-msgstr ""
+msgstr "TREZOR Connect en GitHub"
 
 #: pages/functions.html:122
 msgid "Sign &amp; Verify Messages"
-msgstr ""
+msgstr "Firmar &amp; Verificar mensajes"
 
 #: pages/functions.html:125
 msgid ""
@@ -155,14 +194,18 @@ msgid ""
 "documents, or verify others.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>Pruebe fácilmente que mensajes y documentos le "
+"pertenecen o verifique de otros.</p>\n"
+"                        "
 
 #: pages/functions.html:130
 msgid "More about Messages"
-msgstr ""
+msgstr "Más acerca de Mensajes"
 
 #: pages/functions.html:136
 msgid "Explore Integrations"
-msgstr ""
+msgstr "Explore Integraciones"
 
 #: pages/functions.html:139
 msgid ""
@@ -171,30 +214,34 @@ msgid ""
 "services.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>Conecte su TREZOR a monederos y servicios de "
+"terceros.</p>\n"
+"                        "
 
 #: pages/functions.html:144
 msgid "TREZOR Apps"
-msgstr ""
+msgstr "Aplicaciones TREZOR"
 
 #: pages/functions.html:154 pages/index.html:567
 msgid "Developers, come along!"
-msgstr ""
+msgstr "Desarrolladores ¡Vengan!"
 
 #: pages/functions.html:163 pages/index.html:576
 msgid "GitHub Repos"
-msgstr ""
+msgstr "Depósito GitHub"
 
 #: pages/functions.html:165 pages/index.html:578
 msgid "Dev Community Chat"
-msgstr ""
+msgstr "Chat de la comunidad de desarrolladores"
 
 #: pages/functions.html:167 pages/index.html:580
 msgid "Learn from TREZOR Developer's Guide"
-msgstr ""
+msgstr "Aprenda más con la Guía de Desarrolladores de TREZOR"
 
 #: pages/functions.html:171 pages/index.html:584
 msgid "Learn. Collaborate. Innovate."
-msgstr ""
+msgstr "Aprender. Colaborar. Innovar."
 
 #: pages/functions.html:172
 msgid ""
@@ -209,86 +256,96 @@ msgid ""
 "designers.</p>\n"
 "                "
 msgstr ""
+"\n"
+"                <p>Únase a nosotros y trabaje en proyectos globales de "
+"primera categoría relacionados con Bitcoin y seguridad. Forma parte de\n"
+"                    nuestro equipo\n"
+"                    Responsable de varios proyectos influyentes que marcaron "
+"hitos en el mundo de Bitcoin. Nos encanta\n"
+"                    trabajar\n"
+"                    con desarrolladores, vendedores o diseñadores talentosos "
+"y entusiastas.</p>\n"
+"                "
 
 #: pages/index.html:9
 msgid "Bitcoin wallet."
-msgstr ""
+msgstr "Monedero Bitcoin."
 
 #: pages/index.html:13
 msgid "bitcoins."
-msgstr ""
+msgstr "bitcoins."
 
 #: pages/index.html:14
 msgid "passwords."
-msgstr ""
+msgstr "contraseñas."
 
 #: pages/index.html:15
 msgid "accounts."
-msgstr ""
+msgstr "cuentas."
 
 #: pages/index.html:16
 msgid "emails."
-msgstr ""
+msgstr "correos."
 
 #: pages/index.html:24 pages/index.html:59
 msgid "Buy for €89"
-msgstr ""
+msgstr "Comprar por €89"
 
 #: pages/index.html:26
 msgid "Supported platforms:"
-msgstr ""
+msgstr "Plataformas disponibles:"
 
 #: pages/index.html:38
 msgid "New TREZOR owner?"
-msgstr ""
+msgstr "¿Dueño de un TREZOR nuevo?"
 
 #: pages/index.html:39
 msgid "Start now"
-msgstr ""
+msgstr "Comience ahora"
 
 #: pages/index.html:53
 msgid "Usage"
-msgstr ""
+msgstr "Uso"
 
 #: pages/index.html:54
 msgid "Features"
-msgstr ""
+msgstr "Características"
 
 #: pages/index.html:55
 msgid "Specs"
-msgstr ""
+msgstr "Especificaciones"
 
 #: pages/index.html:56
 msgid "Developers"
-msgstr ""
+msgstr "Desarrolladores"
 
 #: pages/index.html:57
 msgid "Team"
-msgstr ""
+msgstr "Equipo"
 
 #: pages/index.html:74
 msgid "Cryptocurrency wallet"
-msgstr ""
+msgstr "Monedero de criptomonedas"
 
 #: pages/index.html:83
 msgid "ERC-20 tokens"
-msgstr ""
+msgstr "Token ERC-20"
 
 #: pages/index.html:116
 msgid "Explore more functions"
-msgstr ""
+msgstr "Explore más funciones"
 
 #: pages/index.html:125
 msgid "Easy &amp; Secure."
-msgstr ""
+msgstr "Fácil &amp; Seguro."
 
 #: pages/index.html:126
 msgid "Bitcoin wallet of my choice."
-msgstr ""
+msgstr "Monedero Bitcoin de mi elección."
 
 #: pages/index.html:133
 msgid "Quick setup."
-msgstr ""
+msgstr "Configuración rápida."
 
 #: pages/index.html:134
 msgid ""
@@ -298,14 +355,19 @@ msgid ""
 "                                process.</p>\n"
 "                            "
 msgstr ""
+"\n"
+"                            <p>Su TREZOR listo en minutos, sin registración "
+"y completamente\n"
+"                                privado.</p>\n"
+"                            "
 
 #: pages/index.html:139
 msgid "More about setup"
-msgstr ""
+msgstr "Más acerca de la configuración"
 
 #: pages/index.html:146
 msgid "Use with ease."
-msgstr ""
+msgstr "Use fácilmente."
 
 #: pages/index.html:147
 msgid ""
@@ -315,10 +377,15 @@ msgid ""
 "                                to confirm important actions.</p>\n"
 "                            "
 msgstr ""
+"\n"
+"                            <p>Usar TREZOR es muy fácil. Solo siga las "
+"instrucciones en la pantalla y presione el botón\n"
+"                                para confirmar acciones importantes.</p>\n"
+"                            "
 
 #: pages/index.html:157 pages/passwords.html:84
 msgid "Lost? Restore."
-msgstr ""
+msgstr "¿Se perdió? Restáurelo."
 
 #: pages/index.html:158
 msgid ""
@@ -329,14 +396,20 @@ msgid ""
 "p>\n"
 "                            "
 msgstr ""
+"\n"
+"                            <p>No se preocupe, utilice sus palabras secretas "
+"para recuperar rápidamente el acceso a todas sus\n"
+"                                llaves, dinero, historia, cuentas y "
+"correos.</p>\n"
+"                            "
 
 #: pages/index.html:163
 msgid "Help with recovery"
-msgstr ""
+msgstr "Ayuda con la recuperación"
 
 #: pages/index.html:182
 msgid "TREZOR as a Bitcoin wallet."
-msgstr ""
+msgstr "TREZOR como monedero Bitcoin."
 
 #: pages/index.html:183
 msgid ""
@@ -348,30 +421,37 @@ msgid ""
 "                            convenience.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>La más confiable y segura forma de guardar sus "
+"Bitcoins. Aísle sus llaves privadas dentro de\n"
+"                            la seguridad de TREZOR y disfrute, sin riesgo, "
+"de Bitcoin. La mejor protección, sin costo, para su\n"
+"                            conveniencia.</p>\n"
+"                        "
 
 #: pages/index.html:199
 msgid "Trusted by Bitcoin businesses."
-msgstr ""
+msgstr "Negocios Bitcoin confían."
 
 #: pages/index.html:280
 msgid "Litecoin"
-msgstr ""
+msgstr "Litecoin"
 
 #: pages/index.html:287
 msgid "Ethereum"
-msgstr ""
+msgstr "Ethereum"
 
 #: pages/index.html:295
 msgid "Dash"
-msgstr ""
+msgstr "Dash"
 
 #: pages/index.html:302
 msgid "Ethereum Classic"
-msgstr ""
+msgstr "Ethereum Classic"
 
 #: pages/index.html:309
 msgid "ZCash"
-msgstr ""
+msgstr "ZCash"
 
 #: pages/index.html:315
 msgid ""
@@ -380,10 +460,14 @@ msgid ""
 ">Everyday.</h3>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <h3 class=\"card-title\">Agregando mas tipos de "
+"monedas.<br/>Todos los días.</h3>\n"
+"                        "
 
 #: pages/index.html:335
 msgid "Leading security by design."
-msgstr ""
+msgstr "Seguridad líder por diseño."
 
 #: pages/index.html:336
 msgid ""
@@ -392,28 +476,35 @@ msgid ""
 "interface. All in perfect cooperation.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>Criptografía avanzada, hardware confiable, "
+"interfaz simple. Todo en perfecta cooperación.</p>\n"
+"                        "
 
 #: pages/index.html:350
 msgid "Small and Sturdy"
-msgstr ""
+msgstr "Pequeño y robusto"
 
 #: pages/index.html:351
 msgid ""
 "Fits into your palm.<br/> Tamper-proof, water-resistant and extremely\n"
 "                            durable."
 msgstr ""
+"Cabe un tu mano.<br/> A prueba de maltrato, resistente al agua y "
+"extremadamente\n"
+"                            durable."
 
 #: pages/index.html:355
 msgid "Minimalistic"
-msgstr ""
+msgstr "Minimalista"
 
 #: pages/index.html:356
 msgid "We removed everything that could be easily hacked."
-msgstr ""
+msgstr "Quitamos todo lo que podría ser fácilmente hackeado."
 
 #: pages/index.html:359
 msgid "Trust your own eyes"
-msgstr ""
+msgstr "Confía en tus ojos"
 
 #: pages/index.html:360
 msgid ""
@@ -422,20 +513,27 @@ msgid ""
 "                            always tell you the truth.\n"
 "                            "
 msgstr ""
+"Antes de confirmar, compruebe los detalles importantes de la transacción. "
+"<br/>La pantalla\n"
+"                            le dirá\n"
+"                            siempre la verdad.\n"
+"                            "
 
 #: pages/index.html:366
 msgid "Trust your own hands"
-msgstr ""
+msgstr "Confía en tus manos"
 
 #: pages/index.html:367
 msgid ""
 "Everything important needs your direct physical approval.\n"
 "                            "
 msgstr ""
+"Todo lo importante necesita tu aprobación física directa.\n"
+"                            "
 
 #: pages/index.html:371
 msgid "Powerful Cryptography"
-msgstr ""
+msgstr "Criptografía poderosa"
 
 #: pages/index.html:373
 msgid ""
@@ -443,18 +541,21 @@ msgid ""
 "                            Bitcoin.\n"
 "                            "
 msgstr ""
+"TREZOR utiliza y crea los estándares más avanzados en criptografía y\n"
+"                            Bitcoin.\n"
+"                            "
 
 #: pages/index.html:390
 msgid "Endorsed by experts."
-msgstr ""
+msgstr "Aprobado por expertos."
 
 #: pages/index.html:391
 msgid "Loved by thousands of users all over the World."
-msgstr ""
+msgstr "Amado por miles de usuarios de todo el mundo."
 
 #: pages/index.html:398
 msgid "CEO and Cofounder, 21"
-msgstr ""
+msgstr "CEO y cofundador, 21"
 
 #: pages/index.html:400
 msgid ""
@@ -464,10 +565,15 @@ msgid ""
 "                            locally.\n"
 "                            "
 msgstr ""
+"\n"
+"                            TREZOR es pionero en monedero hardware, y una "
+"gran manera de guardar tus monedas\n"
+"                            localmente.\n"
+"                            "
 
 #: pages/index.html:409
 msgid " CEO Third Key Solutions LLC"
-msgstr ""
+msgstr " CEO Third Key Solutions LLC"
 
 #: pages/index.html:411
 msgid ""
@@ -476,10 +582,14 @@ msgid ""
 "expert to have expert level security.\n"
 "                            "
 msgstr ""
+"\n"
+"                            Con TREZOR no necesita ser un experto en "
+"seguridad para tener un nivel experto de seguridad.\n"
+"                            "
 
 #: pages/index.html:419
 msgid "Economist"
-msgstr ""
+msgstr "Economista"
 
 #: pages/index.html:421
 msgid ""
@@ -490,14 +600,20 @@ msgid ""
 "wallets.\n"
 "                            "
 msgstr ""
+"\n"
+"                            Monederos Hardware se han convertido en el "
+"estándar para asegurar a largo plazo el deposito de bitcoins.\n"
+"                            Para monederos hardware, TREZOR es el máximo "
+"estándar.\n"
+"                            "
 
 #: pages/index.html:435
 msgid "Just a few media mentions..."
-msgstr ""
+msgstr "Sólo algunas menciones en los medios..."
 
 #: pages/index.html:495
 msgid "Technical specification."
-msgstr ""
+msgstr "Especificaciones técnicas."
 
 #: pages/index.html:496
 msgid ""
@@ -508,6 +624,12 @@ msgid ""
 "                        logic.</p>\n"
 "                    "
 msgstr ""
+"\n"
+"                    <p>Quitamos todo lo que pudiera ser hackeado y nos "
+"focalizamos en potentes funciones del hardware\n"
+"                        y de la lógica\n"
+"                        del software.</p>\n"
+"                    "
 
 #: pages/index.html:585
 msgid ""
@@ -522,6 +644,16 @@ msgid ""
 "or designers.</p>\n"
 "                    "
 msgstr ""
+"\n"
+"                    <p>Únase a nosotros y trabaje en proyectos globales de "
+"primera categoría relacionados con Bitcoin y seguridad. Forme parte de\n"
+"                        nuestro equipo\n"
+"                        Responsable de varios proyectos influyentes que "
+"marcaron hitos en el mundo de Bitcoin. Nos encanta\n"
+"                        trabajar\n"
+"                        con desarrolladores talentosos, vendedores o "
+"diseñadores.</p>\n"
+"                    "
 
 #: pages/index.html:601
 msgid ""
@@ -538,14 +670,28 @@ msgid ""
 "                            continuously develop flagship applications.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p class=\"text-sm-center text-xs-center text-lg-"
+"right\">Somos pioneros ambiciosos de la tecnología,\n"
+"                            ¡Que nos esforzamos por llevar la criptografía a "
+"las masas!\n"
+"                            Nuestro motor es la innovación; la interminable "
+"investigación y desarrollo nos mantiene a la cabeza. Nuestro objetivo\n"
+"                            es entender y entregar soluciones seguras pero "
+"fáciles de usar a problemas reales. Creamos\n"
+"                            y fomentamos nuestro entorno criptográfico de "
+"código abierto, el \"ecosistema TREZOR\" por lo que\n"
+"                            continuamente desarrollamos aplicaciones "
+"emblemáticas.</p>\n"
+"                        "
 
 #: pages/index.html:613
 msgid "Convinced by our values."
-msgstr ""
+msgstr "Convencidos de nuestros valores."
 
 #: pages/index.html:622
 msgid "Meet our team."
-msgstr ""
+msgstr "Conozca nuestro equipo."
 
 #: pages/index.html:623
 msgid ""
@@ -558,75 +704,83 @@ msgid ""
 "the world.</p>\n"
 "                        "
 msgstr ""
+"\n"
+"                        <p>Nuestro equipo cuenta con algunos de los expertos "
+"de Bitcoin y de seguridad más reconocidos, un equipo\n"
+"                            de soporte\n"
+"                            dedicado,\n"
+"                            así como el Jack Russell más calificado del "
+"mundo.</p>\n"
+"                        "
 
 #: pages/index.html:640
 msgid "Door Supervisor"
-msgstr ""
+msgstr "Supervisor de entrada"
 
 #: pages/index.html:650
 msgid "Architect"
-msgstr ""
+msgstr "Arquitecto"
 
 #: pages/index.html:660
 msgid "Alchemist"
-msgstr ""
+msgstr "Alquimista"
 
 #: pages/index.html:670
 msgid "Catalyst"
-msgstr ""
+msgstr "Catalizador"
 
 #: pages/index.html:680
 msgid "Hacker"
-msgstr ""
+msgstr "Hacker"
 
 #: pages/index.html:690
 msgid "Operations"
-msgstr ""
+msgstr "Operaciones"
 
 #: pages/index.html:700
 msgid "Office"
-msgstr ""
+msgstr "Oficina"
 
 #: pages/index.html:710 pages/index.html:731
 msgid "Developer"
-msgstr ""
+msgstr "Desarrollador"
 
 #: pages/index.html:721
 msgid "Cypherfunker"
-msgstr ""
+msgstr "Cypherfunker"
 
 #: pages/index.html:742 pages/index.html:752 templates/footer.html:35
 #: templates/global_nav.html:35
 msgid "Support"
-msgstr ""
+msgstr "Soporte"
 
 #: pages/index.html:762
 msgid "Marketing"
-msgstr ""
+msgstr "Marketing"
 
 #: pages/passwords.html:16
 msgid "Say goodbye to your master password."
-msgstr ""
+msgstr "Dile adiós a tu contraseña maestra."
 
 #: pages/passwords.html:23
 msgid "Download for Chrome"
-msgstr ""
+msgstr "Descargar para Chrome"
 
 #: pages/passwords.html:26
 msgid "Don't have a TREZOR?"
-msgstr ""
+msgstr "¿No tienes TREZOR?"
 
 #: pages/passwords.html:28
 msgid "Get one"
-msgstr ""
+msgstr "Consigue uno"
 
 #: pages/passwords.html:38
 msgid "Public Beta Announcement"
-msgstr ""
+msgstr "Anuncio público beta"
 
 #: pages/passwords.html:46
 msgid "Expert-level encryption in your hands."
-msgstr ""
+msgstr "Encripción nivel experto en tus manos."
 
 #: pages/passwords.html:48
 msgid ""
@@ -636,10 +790,15 @@ msgid ""
 "                    hardware wallet.\n"
 "                    "
 msgstr ""
+"\n"
+"                    TREZOR Password Manager se beneficia del probado diseño "
+"de seguridad del monedero hardware\n"
+"                    más confiable.\n"
+"                    "
 
 #: pages/passwords.html:59
 msgid "Secure access to passwords."
-msgstr ""
+msgstr "Acceso seguro a tus contraseñas."
 
 #: pages/passwords.html:61
 msgid ""
@@ -649,10 +808,15 @@ msgid ""
 "                        unlock your password manager.\n"
 "                        "
 msgstr ""
+"\n"
+"                        Olvídese de contraseñas maestras. Un simple click en "
+"el botón de su TREZOR es una forma mucho mas segura\n"
+"                        de desbloquear el administrador de contraseñas.\n"
+"                        "
 
 #: pages/passwords.html:72
 msgid "Original TREZOR security."
-msgstr ""
+msgstr "Seguridad original de TREZOR."
 
 #: pages/passwords.html:74
 msgid ""
@@ -661,6 +825,10 @@ msgid ""
 "renowned security experts across the globe.\n"
 "                        "
 msgstr ""
+"\n"
+"                        El código abierto de TREZOR ha sido revisado por "
+"renombrados expertos en seguridad alrededor del mundo.\n"
+"                        "
 
 #: pages/passwords.html:86
 msgid ""
@@ -671,10 +839,16 @@ msgid ""
 "                        Drive.\n"
 "                        "
 msgstr ""
+"\n"
+"                        Use su semilla de recuperación de 24 palabras\n"
+"                        para recuperar el acceso a sus contraseñas "
+"encriptadas en Dropbox o Google\n"
+"                        Drive.\n"
+"                        "
 
 #: pages/passwords.html:102
 msgid "Send us feedback"
-msgstr ""
+msgstr "Envíanos tus comentarios"
 
 #: pages/passwords.html:105
 msgid ""
@@ -684,10 +858,15 @@ msgid ""
 "                        feedback and bug reports.\n"
 "                        "
 msgstr ""
+"\n"
+"                        TREZOR Password Manager beta ha sido distribuido "
+"para el testeo publico, sus comentarios\n"
+"                        y reportes de errores son bienvenidos.\n"
+"                        "
 
 #: pages/passwords.html:120
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Preguntas frequentes"
 
 #: pages/passwords.html:131
 msgid ""
@@ -701,6 +880,15 @@ msgid ""
 "                            master key to your passwords.\n"
 "                            "
 msgstr ""
+"\n"
+"                            Administradores de contraseñas tradicionales "
+"comparten la misma debilidad - la contraseña maestra. Cuando alguien conoce\n"
+"                            tu contraseña maestra, éste puede acceder a "
+"todas tus contraseñas.\n"
+"                            TREZOR Password Manager no requiere de una "
+"contraseña maestra. En su lugar, su TREZOR \n"
+"                            es la clave maestra de sus contraseñas.\n"
+"                            "
 
 #: pages/passwords.html:139
 msgid ""
@@ -713,10 +901,21 @@ msgid ""
 "brief-password-manager-lastpass-got-breached-hard/\">LastPass</a>.\n"
 "                            "
 msgstr ""
+"\n"
+"                            Informes de violaciones de contraseña maestras "
+"en \n"
+"<a\n"
+"                                href=\"http://thehackernews.com/2014/07"
+"/critical-vulnerability-and-privacy.html\">RoboForm</a>\n"
+"                            y \n"
+"<a\n"
+"                                href=\"https://www.wired.com/2015/06/hack-"
+"brief-password-manager-lastpass-got-breached-hard/\">LastPass</a>.\n"
+"                            "
 
 #: pages/passwords.html:150
 msgid "Why use TREZOR?"
-msgstr ""
+msgstr "¿Por qué usa TREZOR?"
 
 #: pages/passwords.html:154
 msgid ""
@@ -728,6 +927,14 @@ msgid ""
 "                            any valuable online assets such as passwords.\n"
 "                            "
 msgstr ""
+"\n"
+"                            TREZOR es el monedero hardware más seguro y "
+"ubicuo del mundo. Utiliza\n"
+"                            criptografía de vanguardia para proteger el "
+"dinero digital y\n"
+"                            cualquier activo valioso en línea, como "
+"contraseñas.\n"
+"                            "
 
 #: pages/passwords.html:161
 msgid ""
@@ -738,10 +945,16 @@ msgid ""
 "renowned security experts.\n"
 "                            "
 msgstr ""
+"\n"
+"                            Desde su lanzamiento en 2014, TREZOR ha sido "
+"aceptado por los usuarios en casi 100 países y\n"
+"                            sigue recibiendo excelentes críticas de "
+"reconocidos expertos en seguridad.\n"
+"                            "
 
 #: pages/passwords.html:170
 msgid "How does TREZOR encrypt password entries?"
-msgstr ""
+msgstr "¿Cómo encripta TREZOR las contraseñas?"
 
 #: pages/passwords.html:174
 msgid ""
@@ -751,6 +964,11 @@ msgid ""
 "                            unique key.\n"
 "                            "
 msgstr ""
+"\n"
+"                            TREZOR encripta cada contraseña de forma "
+"separada con una\n"
+"                            clave única.\n"
+"                            "
 
 #: pages/passwords.html:180
 msgid ""
@@ -762,10 +980,17 @@ msgid ""
 "                            impenetrable by hackers or malware.\n"
 "                            "
 msgstr ""
+"\n"
+"                            La firma se deriva de una clave privada única en "
+"el TREZOR. Todas las claves privadas se generan\n"
+"                            en un entorno seguro sin conexión y nunca "
+"abandonan el dispositivo, por lo que TREZOR es\n"
+"                            impenetrable por los hackers o el malware.\n"
+"                            "
 
 #: pages/passwords.html:190
 msgid "How can I import / export my passwords?"
-msgstr ""
+msgstr "¿Cómo importo/exporto mis contraseñas?"
 
 #: pages/passwords.html:194
 msgid ""
@@ -776,10 +1001,16 @@ msgid ""
 "across most platforms.\n"
 "                            "
 msgstr ""
+"\n"
+"                            Mientras estamos en la fase de pruebas, no se "
+"puede. Añadiremos estas características una vez que \n"
+"                            todas las funcionalidades básicas estén bien "
+"probadas y estables en la mayoría de las plataformas.\n"
+"                            "
 
 #: pages/start.html:8
 msgid "Thank you!"
-msgstr ""
+msgstr "¡Gracias!"
 
 #: pages/start.html:10
 msgid ""
@@ -788,10 +1019,14 @@ msgid ""
 "before you setup your device.\n"
 "                    "
 msgstr ""
+"\n"
+"                    ¡Finalmente en tus manos! Ahora, 3 simples pasos antes "
+"de configurar su dispositivo.\n"
+"                    "
 
 #: pages/start.html:22
 msgid "Learn how PIN works."
-msgstr ""
+msgstr "Aprenda como funciona PIN."
 
 #: pages/start.html:28
 msgid ""
@@ -802,6 +1037,12 @@ msgid ""
 "simple PINs as '1234'.\n"
 "                                "
 msgstr ""
+"\n"
+"                                <strong>PIN</strong> proteje su TREZOR "
+"evitando accesos nos autorizados. Use por\n"
+"                                lo menos 4 números diferentes. Evite "
+"combinaciones simples como '1234'.\n"
+"                                "
 
 #: pages/start.html:35
 msgid ""
@@ -812,14 +1053,20 @@ msgid ""
 "TREZOR change between the entries.\n"
 "                                "
 msgstr ""
+"\n"
+"                                Durante la configuración de su TREZOR, usted "
+"va a ingresar su nuevo PIN\n"
+"                                dos veces. Observe que los números mostrados "
+"en TREZOR cambian de posición entre las entradas.\n"
+"                                "
 
 #: pages/start.html:43
 msgid "Learn more about PIN"
-msgstr ""
+msgstr "Aprenda mas acerca de PIN"
 
 #: pages/start.html:65
 msgid "Understand the recovery seed."
-msgstr ""
+msgstr "Entender la semilla de recuperación."
 
 #: pages/start.html:71
 msgid ""
@@ -835,6 +1082,17 @@ msgid ""
 "during the setup of your TREZOR.\n"
 "                                "
 msgstr ""
+"\n"
+"                                <strong>Recovery Seed</strong> o Semilla de "
+"Recuperación es la frase de recuperación de 24 palabras con las que\n"
+"                                puede\n"
+"                                restaurar su\n"
+"                                monedero en caso de robo o pérdida. ¡Es "
+"absolutamente crucial escribir la semilla!\n"
+"                                La semilla\n"
+"                                de recuperación se generará para usted "
+"durante la configuración de su TREZOR.\n"
+"                                "
 
 #: pages/start.html:82
 msgid ""
@@ -848,14 +1106,24 @@ msgid ""
 "care of sensitive information.\n"
 "                                    "
 msgstr ""
+"\n"
+"                                    Nunca haga una copia digital de su "
+"semilla de recuperación y nunca la suba\n"
+"                                    on-line. Mantenga sus semillas de "
+"recuperación en un \n"
+"                                    lugar seguro. TREZOR no puede ser "
+"considerado responsable de las pérdidas financieras\n"
+"                                    incurridas por el cuidado inadecuado de "
+"información sensible por parte del cliente.\n"
+"                                    "
 
 #: pages/start.html:93
 msgid "Learn more about Recovery"
-msgstr ""
+msgstr "Aprenda mas acerca de la recuperación"
 
 #: pages/start.html:110
 msgid "Stay updated about important news."
-msgstr ""
+msgstr "Manténgase actualizado acerca de novedades importantes."
 
 #: pages/start.html:116
 msgid ""
@@ -866,54 +1134,64 @@ msgid ""
 "                                please subscribe to our TREZOR newsletter.\n"
 "                                "
 msgstr ""
+"\n"
+"                                Para mantenerse informado sobre "
+"características y actualizaciones de seguridad de\n"
+"                                nuestros expertos,\n"
+"                                por favor suscríbase a nuestro boletín "
+"TREZOR.\n"
+"                                "
 
 #: pages/start.html:136
 msgid "No, skip it"
-msgstr ""
+msgstr "No, saltear"
 
 #: pages/start.html:148
 msgid "Please take some time to familiarize yourself with our policies first."
 msgstr ""
+"Por favor, primero, tómese su tiempo para familiarizarse con nuestras "
+"políticas."
 
 #: pages/start.html:153
 msgid "Warranty information"
-msgstr ""
+msgstr "Información de garantía"
 
 #: pages/start.html:157
 msgid "Done, let's go!"
-msgstr ""
+msgstr "Hecho ¡vamos!"
 
 #: pages/start.html:161
 msgid "You will be redirected to TREZOR Wallet to setup your device."
 msgstr ""
+"Usted será redireccionado a TREZOR Wallet para configurar su dispositivo."
 
 #: pages/support.html:8
 msgid "Support Center."
-msgstr ""
+msgstr "Centro de soporte."
 
 #: pages/support.html:10
 msgid "How can we help you?"
-msgstr ""
+msgstr "¿Cómo puedo ayudarlo?"
 
 #: pages/troubleshooter.html:6
 msgid "Troubleshooter"
-msgstr ""
+msgstr "Solucionador de problemas"
 
 #: pages/troubleshooter.html:18
 msgid "Loading..."
-msgstr ""
+msgstr "Cargando..."
 
 #: pages/troubleshooter.html:29
 msgid "Hello, do you need help with your TREZOR?"
-msgstr ""
+msgstr "Hola ¿Necesita ayuda con su TREZOR?"
 
 #: pages/troubleshooter.html:42
 msgid "Technical Issues"
-msgstr ""
+msgstr "Problemas técnicos"
 
 #: pages/troubleshooter.html:67
 msgid "Orders &amp; Shipping"
-msgstr ""
+msgstr "Pedidos&amp; Envíos"
 
 #: pages/troubleshooter.html:69
 msgid ""
@@ -922,6 +1200,10 @@ msgid ""
 "it yet?</p>\n"
 "                    "
 msgstr ""
+"\n"
+"                    <p>Pedido - ¿Usted pidió un TREZOR y todavía no lo "
+"recibió?</p>\n"
+"                    "
 
 #: pages/troubleshooter.html:88
 msgid ""
@@ -929,6 +1211,9 @@ msgid ""
 "                <h4 class=\"header\">Wallet doesn't detect the device.</h4>\n"
 "                "
 msgstr ""
+"\n"
+"                <h4 class=\"header\">Wallet no detecta el dispositivo.</h4>\n"
+"                "
 
 #: pages/troubleshooter.html:92
 msgid ""
@@ -938,10 +1223,15 @@ msgid ""
 "    more information with us?</p>\n"
 "                    "
 msgstr ""
+"\n"
+"                    <p>Diferentes factores podrían ser la causa de este "
+"problema. Vamos a solucionarlo. ¿Podría compartir\n"
+"    más información con nosotros?</p>\n"
+"                    "
 
 #: pages/troubleshooter.html:105
 msgid "Wallet keeps asking me to download the bridge."
-msgstr ""
+msgstr "Wallet sigue pidiéndome que baje the bridge."
 
 #: pages/troubleshooter.html:107
 msgid ""
