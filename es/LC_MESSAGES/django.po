@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-02 13:17+0200\n"
-"PO-Revision-Date: 2017-08-04 21:21+0000\n"
+"PO-Revision-Date: 2017-08-11 04:17+0000\n"
 "Last-Translator: Yago Ferreyra <yagoferreyra@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/satoshilabs"
 "/trezor-io/es/>\n"
@@ -715,7 +715,7 @@ msgstr ""
 
 #: pages/index.html:640
 msgid "Door Supervisor"
-msgstr "Supervisor de entrada"
+msgstr "Vigilante de entrada"
 
 #: pages/index.html:650
 msgid "Architect"
@@ -1246,6 +1246,17 @@ msgid ""
 "or script blockers.</p>\n"
 "                    "
 msgstr ""
+"\n"
+"                    <p>Esto generalmente significa que no hay un método de "
+"transmisión o que no se instaló correctamente. Puede utilizar la extensión "
+"TREZOR Bridge o <a href=\"https://chrome.google.com/webstore/detail/trezor-"
+"chrome-extension/jcjjhjgimijdkoamemaghajlhegmoclj?hl=en\"> la extensión "
+"TREZOR de Chrome</a>.</p> \n"
+"                    <p> También podría significar que algo en su navegador o "
+"la configuración de su ordenador puede estar bloqueando la conexión con su "
+"TREZOR. Los mas comunes son bloqueadores de contenido como AdBlock o "
+"bloqueadores de comandos.</p>\n"
+"                    "
 
 #: pages/troubleshooter.html:119
 msgid ""
@@ -1253,6 +1264,9 @@ msgid ""
 "                <h4 class=\"header\">TREZOR won't power up.</h4>\n"
 "                "
 msgstr ""
+"\n"
+"                <h4 class=\"header\">TREZOR no encenderá.</h4>\n"
+"                "
 
 #: pages/troubleshooter.html:123
 msgid ""
@@ -1262,6 +1276,11 @@ msgid ""
 "                    <p>Please, try using a different micro USB cable.</p>\n"
 "                    "
 msgstr ""
+"\n"
+"                    <p><em>Luego de conectar el dispositivo, la pantalla no "
+"encendió. </em></p>\n"
+"                    <p>Por favor, intente con otro cable micro USB.</p>\n"
+"                    "
 
 #: pages/troubleshooter.html:135
 msgid ""
@@ -1269,6 +1288,9 @@ msgid ""
 "                <h4 class=\"header\">Still didn't receive my TREZOR.</h4>\n"
 "                "
 msgstr ""
+"\n"
+"                <h4 class=\"header\">Todavía no recibí mi TREZOR.</h4>\n"
+"                "
 
 #: pages/troubleshooter.html:139
 msgid ""
@@ -1311,6 +1333,43 @@ msgid ""
 "new/10\">submit a ticket here</a>.</p> \n"
 "    \t\t\t\t"
 msgstr ""
+"\n"
+"                    <p>Lamentamos el retraso. Sin embargo, la fecha de "
+"entrega depende de muchos factores.</p>\n"
+"                    <p><strong>¿Dónde puedo hacer el seguimiento de mi "
+"pedido (hay algun número de envío)?</strong></p>\n"
+"                    <p> Iniciando seción en <a href=\""
+"https://shop.trezor.io/user/login/\">la tienda \n"
+"    TREZOR</a> y en la sección de Mis Pedidos seleccionar fecha de pedido, "
+"usted podrá ver los detalles de su pedido. El\n"
+"    usuario fue creado cuando hizo su primera compra del dispositivo. Si "
+"usted no tiene contraseña, por favor seleccione el formulario de <a href=\""
+"https://shop.trezor.io/user/password-reset/\">recuperación de "
+"contraseña</a>.</p>\n"
+"                    <p><strong>Envío DHL</strong></p>\n"
+"                    <p>DHL es la opción de envío por defecto, y es "
+"rastreable. Una vez que el paquete sale de nuestro centro, la entrega suele "
+"demorar entre 2 y 5 días hábiles. Usted puede seguir el pedido aquí <a\n"
+"                            href=\"http://www.dhl.com/en/express/tracking."
+"html\"> Seguimiento DHL</a></p>\n"
+"                    <p><strong>Envío estándart</strong></p>\n"
+"                    <p>La opción de envío estándar esta disponible solo en "
+"países de la UE. Su seguimiento es limitado. La entrega podría demorar entre "
+"5 días y 6 semanas, dependiendo del destino y el servicio de su correo "
+"nacional. El envío estándar puede ser seguido <a\n"
+"                                href=\"https://www.ceskaposta.cz/en/"
+"trackandtrace\">en este enlace</a> hasta que sale del país\n"
+"    de origen. Luego podrá ser seguido a través del servicio de su correo "
+"local, si éste brinda servicio de seguimiento.\n"
+"                    </p>\n"
+"                    <br/>\n"
+"                    <p>¡Gracias por su paciencia!<br/>Le notificaremos, por "
+"e-mail, cualquier\n"
+"    cambio significativo en su pedido.</p>\n"
+"    <p>En caso que necesite contactar a nuestro equipo de soporte con "
+"respecto a su pedido, por favor <a href=\""
+"https://satoshilabs.kayako.com/conversation/new/10\">hágalo aquí</a>.</p> \n"
+"    \t\t\t\t"
 
 #: pages/troubleshooter.html:164
 msgid ""
@@ -1318,6 +1377,10 @@ msgid ""
 "                <h4 class=\"header\">Tracking says NOT FOUND.</h4>\n"
 "                "
 msgstr ""
+"\n"
+"                <h4 class=\"header\">El rastreador de mi pedido dice NO "
+"ENCONTRADO.</h4>\n"
+"                "
 
 #: pages/troubleshooter.html:168
 msgid ""
@@ -1343,10 +1406,32 @@ msgid ""
 "strong>, and we start the <strong>investigation</strong> process.</p>\n"
 "                    "
 msgstr ""
+"\n"
+"                    <p>Esta situación tendría dos posibles explicaciones: "
+"</p><p><strong>1. El paquete salió de Europa,\n"
+"    y éste no es rastreable hasta que el correo del país de destino lo "
+"reclame. </strong></p><p>Después\n"
+"    de salir del país de origen, en el país de destino la aduana recibe el "
+"paquete. Aquí es \n"
+"    dónde se generan las mayores demoras. Lamentablemente, el pedido "
+"aparecerá \n"
+"    en el sistema de seguimiento sólo después de que es liberado por la "
+"aduana. Por ejemplo, Tenemos una entrega que fue retenida por\n"
+"    la oficina de aduanas de los Estados Unidos durante casi 6 semanas. "
+"</p><p><strong>2. El paquete se perdió. En ese caso, por favor, llene el\n"
+"    <a href=\"https://satoshilabs.kayako.com/conversation/new/10\"> "
+"formulario</a> para contactar nuestro soporte.</strong></p><p>En raros casos,"
+"\n"
+"    cuando se elije Envío Estándar, el paquete no llega nunca. Es muy "
+"desafortunado, pero puede suceder \n"
+"    ocasionalmente. En ese caso, lo consideramos un <strong>paquete "
+"perdido</strong> y comenzamos un proceso de "
+"<strong>investigación</strong>.</p>\n"
+"                    "
 
 #: pages/troubleshooter.html:187
 msgid "Warranty"
-msgstr ""
+msgstr "Garantía"
 
 #: pages/troubleshooter.html:189
 msgid ""
@@ -1355,6 +1440,10 @@ msgid ""
 "received it?</p>\n"
 "                    "
 msgstr ""
+"\n"
+"                    <p>¿Está roto su TREZOR, o no funcionó cuando lo "
+"recibió?</p>\n"
+"                    "
 
 #: pages/troubleshooter.html:200
 msgid ""
@@ -1362,6 +1451,10 @@ msgid ""
 "                <h4 class=\"header\">TREZOR device is clearly broken.</h4>\n"
 "                "
 msgstr ""
+"\n"
+"                <h4 class=\"header\">El dispositivo TREZOR está claramente "
+"roto.</h4> 2\n"
+"                "
 
 #: pages/troubleshooter.html:204
 msgid ""
@@ -1376,10 +1469,20 @@ msgid ""
 "    buy your device?</p>\n"
 "                    "
 msgstr ""
+"\n"
+"                    <p>Ejemplos de problemas de hardware que iniciamos el "
+"proceso de retorno (RMA) directamente.</p><ul><li>Pixels\n"
+"    quemados en la pantalla</li><li>\"Pantalla muerta\"</li><li>Botones que "
+"no\n"
+"    funcionan</li></ul><p>Si tiene alguno de los defectos mencionados o "
+"alguna falla de hardware diferente que claramente\n"
+"    no fue causada por daño físico, por favor contacte nuestro "
+"soporte.</p><p>¿Dónde compró su dispositivo?</p>\n"
+"                    "
 
 #: pages/troubleshooter.html:220
 msgid "I would like to get details about the warranty."
-msgstr ""
+msgstr "Me gustaría obtener detalles sobre la garantía."
 
 #: pages/troubleshooter.html:222
 msgid ""
@@ -1403,10 +1506,30 @@ msgid ""
 "    &amp; Refund Policy</a></p>\n"
 "                    "
 msgstr ""
+"\n"
+"                    <p><strong>Periodo de Garantía</strong></p><p>"
+"Garantizamos el producto, sus\n"
+"    componentes y la mano de obra, libre de defectos en sus materiales y "
+"fabricación, bajo uso normal definido en el manual de usuario \n"
+"    y en este Aviso de garantía durante el período de garantía. El período "
+"de garantía comienza en la fecha de compra y\n"
+"    dura dos (2) años.</p><p>Además, garantizamos el producto sustituido y/o "
+"sus partes o componentes\n"
+"    libres de defectos, en sus materiales y fabricación, por el período de "
+"treinta (30) días desde la fecha de reemplazo o\n"
+"    lo que resta del periodo de garantía original, la mayor de ellas.</p>\n"
+"    <p><em>En caso de que éste aviso difiera del documento legal disponible "
+"a continuación o en la tienda TREZOR, los términos de este último se "
+"aplican.</em></p>\n"
+"    <p><a\n"
+"                        href=\"https://shop.trezor.io/static/shared/warranty-"
+"refund-policy.pdf\">Garantía\n"
+"    &amp; Política de reembolso</a></p>\n"
+"                    "
 
 #: pages/troubleshooter.html:239
 msgid "Change my order information."
-msgstr ""
+msgstr "Cambiar la información de mi pedido."
 
 #: pages/troubleshooter.html:241
 msgid ""
@@ -1424,7 +1547,7 @@ msgstr ""
 
 #: pages/troubleshooter.html:253
 msgid "Change shipping address."
-msgstr ""
+msgstr "Cambiar la dirección de envío."
 
 #: pages/troubleshooter.html:255
 msgid ""
@@ -1445,6 +1568,9 @@ msgid ""
 "                <h4 class=\"header\">Missed parcel delivery.</h4>\n"
 "                "
 msgstr ""
+"\n"
+"                <h4 class=\"header\">Paquete perdido.</h4>\n"
+"                "
 
 #: pages/troubleshooter.html:270
 msgid ""
@@ -1462,7 +1588,7 @@ msgstr ""
 
 #: pages/troubleshooter.html:281
 msgid "How do I create/enter a PIN?"
-msgstr ""
+msgstr "¿Cómo creo o ingreso un PIN?"
 
 #: pages/troubleshooter.html:283
 msgid ""
@@ -1498,7 +1624,7 @@ msgstr ""
 
 #: pages/troubleshooter.html:303
 msgid "I forgot my PIN?"
-msgstr ""
+msgstr "¿Olvidé mi PIN?"
 
 #: pages/troubleshooter.html:305
 msgid ""
@@ -1515,7 +1641,7 @@ msgstr ""
 
 #: pages/troubleshooter.html:316
 msgid "How does the recovery seed work?"
-msgstr ""
+msgstr "¿Cómo funciona la semilla de recuperación?"
 
 #: pages/troubleshooter.html:318
 msgid ""
@@ -1570,7 +1696,7 @@ msgstr ""
 
 #: pages/troubleshooter.html:352
 msgid "How does a passphrase work?"
-msgstr ""
+msgstr "¿Cómo funciona la contraseña?"
 
 #: pages/troubleshooter.html:354
 msgid ""
@@ -1613,7 +1739,7 @@ msgstr ""
 
 #: pages/troubleshooter.html:377
 msgid "My recovery seed is stolen?"
-msgstr ""
+msgstr "¿Puede ser robada mi semilla de recuperación?"
 
 #: pages/troubleshooter.html:379
 msgid ""
@@ -2666,19 +2792,19 @@ msgstr ""
 
 #: templates/footer.html:23 templates/global_nav.html:23
 msgid "TREZOR"
-msgstr ""
+msgstr "TREZOR"
 
 #: templates/footer.html:26 templates/global_nav.html:26
 msgid "Wallet"
-msgstr ""
+msgstr "Monedero"
 
 #: templates/footer.html:29 templates/global_nav.html:29
 msgid "Docs"
-msgstr ""
+msgstr "Documentos"
 
 #: templates/footer.html:32 templates/global_nav.html:32
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: templates/global_nav.html:38
 msgid "Follow us"
