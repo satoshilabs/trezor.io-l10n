@@ -1161,7 +1161,7 @@ msgid "Done, let's go!"
 msgstr "Hecho ¡vamos!"
 
 #: pages/start.html:161
-msgid "You will be redirected to TREZOR Wallet to setup your device."
+msgid "You will be redirected to Trezor Wallet to setup your device."
 msgstr ""
 "Usted será redireccionado a TREZOR Wallet para configurar su dispositivo."
 
