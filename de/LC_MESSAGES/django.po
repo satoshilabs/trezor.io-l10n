@@ -41,7 +41,7 @@ msgid ""
 msgstr ""
 
 #: pages/functions.html:31 pages/index.html:189
-msgid "Go to Wallet"
+msgid "Go to Suite"
 msgstr ""
 
 #: pages/functions.html:36
@@ -2379,7 +2379,7 @@ msgid "TREZOR"
 msgstr ""
 
 #: templates/footer.html:26 templates/global_nav.html:26
-msgid "Wallet"
+msgid "Suite"
 msgstr ""
 
 #: templates/footer.html:29 templates/global_nav.html:29

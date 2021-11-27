@@ -48,8 +48,8 @@ msgstr ""
 "                        "
 
 #: pages/functions.html:31 pages/index.html:189
-msgid "Go to Wallet"
-msgstr "Ir a Wallet"
+msgid "Go to Suite"
+msgstr "Ir a Suite"
 
 #: pages/functions.html:36
 msgid "Ethereum integration"
@@ -3556,8 +3556,8 @@ msgid "TREZOR"
 msgstr "TREZOR"
 
 #: templates/footer.html:26 templates/global_nav.html:26
-msgid "Wallet"
-msgstr "Monedero"
+msgid "Suite"
+msgstr "Suite"
 
 #: templates/footer.html:29 templates/global_nav.html:29
 msgid "Docs"
